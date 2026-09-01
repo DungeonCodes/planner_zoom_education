@@ -107,3 +107,12 @@ Arquivos alterados: /docs/run_log.md; configuração local do Git.
 Resultado: A falha era causada por um caminho de Markdown maior que o limite padrão do Git no Windows. A opção local core.longpaths foi habilitada e a validação de inclusão do acervo completo foi concluída sem erros.
 Pendências: Nenhuma referente a caminhos longos no Git.
 Próximo passo: Realizar o commit normalmente.
+
+## Registro
+
+Data: 2026-09-01
+Ação realizada: Estruturação documental do cronograma pedagógico e registro da grade semanal.
+Arquivos alterados: /docs/cronograma_pedagogico/README.md; /docs/cronograma_pedagogico/grade_semanal.md; /docs/cronograma_pedagogico/modelo_cronograma_datado.md; /docs/master_context.md; /docs/decisions.md; /docs/run_log.md
+Resultado: Grade dos professores Rafael Martins e Ricardo Palhares estruturada por turno, dia e bloco de horários, com alternância quinzenal pendente de definição.
+Pendências: Ano letivo, calendário escolar, data inicial e associação das turmas às Semanas A e B.
+Próximo passo: Receber o calendário letivo para gerar as ocorrências datadas das aulas.

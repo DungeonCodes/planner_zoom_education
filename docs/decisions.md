@@ -7,3 +7,11 @@ Decisão: Iniciar o projeto pelo recorte de Pensamento Computacional da Zoom Edu
 Motivo: Definição inicial do escopo do projeto.
 Alternativas consideradas: Não definidas.
 Impacto esperado: Direcionar a futura coleta e organização de materiais autorizados.
+
+## Registro
+
+Data: 2026-09-01
+Decisão: Estruturar o cronograma pedagógico sem atribuir datas reais.
+Motivo: O calendário letivo, a data inicial e a distribuição entre Semana A e Semana B ainda não foram definidos.
+Alternativas consideradas: Preencher datas estimadas; descartada para não introduzir suposições.
+Impacto esperado: Permitir o preenchimento posterior do calendário sem alterar a grade semanal.

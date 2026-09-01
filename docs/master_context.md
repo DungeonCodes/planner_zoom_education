@@ -26,6 +26,8 @@ Coletar PDFs autorizados da Zoom Education, realizar sua leitura e extração de
 
 PDFs de conteúdo da Zoom Education, obtidos por acesso autorizado.
 
+Grade semanal de aulas de Pensamento Computacional, com blocos dobrados e alternância quinzenal, registrada em `/docs/cronograma_pedagogico/grade_semanal.md`.
+
 ## Saídas Esperadas
 
 Conteúdos extraídos e organizados no repositório para uso posterior no planejamento pedagógico.
