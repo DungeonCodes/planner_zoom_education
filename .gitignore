@@ -3,6 +3,9 @@
 !/data/.gitkeep
 !/data/README.md
 
+# Acervo bruto da Zoom Education (pode conter muitos arquivos grandes)
+/data/zoom_education/fundamental_1/pdfs_originais/
+
 # Arquivos gerados
 /outputs/*
 !/outputs/.gitkeep
