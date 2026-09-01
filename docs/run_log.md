@@ -89,3 +89,21 @@ Arquivos alterados: /.gitignore; /scripts/extract_pdf_archive.py; /outputs/zoom_
 Resultado: 182 PDFs foram convertidos em Markdown, preservando a estrutura de origem e a divisão por página. O inventário registrou 8.069 páginas, todas com camada de texto extraída, sem erros reportados.
 Pendências: Nenhuma referente à extração textual do acervo atual.
 Próximo passo: Usar o inventário e os Markdown extraídos para definir o planejamento pedagógico por série e aula.
+
+## Registro
+
+Data: 2026-09-01
+Ação realizada: Ajuste das regras de versionamento dos resultados de extração.
+Arquivos alterados: /.gitignore; /docs/run_log.md
+Resultado: Arquivos Markdown sob /outputs deixaram de ser ignorados pelo Git. O acervo bruto em /data, incluindo os PDFs grandes, permanece ignorado.
+Pendências: Nenhuma.
+Próximo passo: Revisar e versionar os Markdown que devem compor o histórico do projeto.
+
+## Registro
+
+Data: 2026-09-01
+Ação realizada: Diagnóstico e correção de falha de preparação de commit.
+Arquivos alterados: /docs/run_log.md; configuração local do Git.
+Resultado: A falha era causada por um caminho de Markdown maior que o limite padrão do Git no Windows. A opção local core.longpaths foi habilitada e a validação de inclusão do acervo completo foi concluída sem erros.
+Pendências: Nenhuma referente a caminhos longos no Git.
+Próximo passo: Realizar o commit normalmente.

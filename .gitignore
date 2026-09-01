@@ -11,6 +11,10 @@
 !/outputs/.gitkeep
 !/outputs/README.md
 
+# Extracoes textuais versionaveis
+!/outputs/**/
+!/outputs/**/*.md
+
 # Variáveis de ambiente
 .env
 .env.*
