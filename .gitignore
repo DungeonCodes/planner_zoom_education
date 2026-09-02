@@ -37,6 +37,22 @@ temp/
 .DS_Store
 Thumbs.db
 
+# Artefatos locais do Google Drive
+.shortcut-targets-by-id/
+.gdrive/
+google-drive-temp/
+google_drive_temp/
+*.gdoc
+*.gsheet
+*.gslides
+*.gform
+*.gsite
+*.gdrive
+~$*
+*.tmp
+*.tmp.driveupload
+*.crdownload
+
 # Builds comuns
 dist/
 build/

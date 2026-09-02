@@ -79,8 +79,8 @@ Há seis encontros para 3ºA e sete para 3ºB/3ºC, com oito para 3ºD. O materi
 | Encontro | Conteúdo oficial compactado |
 | ---: | --- |
 | 1 | Cores na natureza + Cores na arte |
-| 2 | Momento do desafio de Cores + Robô arbóreo |
-| 3 | Robô quadrúpede + Robô batedor de asas + desafio de Locomoção dos Animais |
+| 2 | Momento do desafio de Cores + Robô batedor de asas |
+| 3 | Robô arbóreo + Robô quadrúpede + desafio de Locomoção dos Animais |
 | 4 | Parque de diversões, Circo e Áreas livres de diversão + desafio de Lugares para se Divertir |
 | 5 | Furadeira, Ponte rolante e Catraca + desafio de Mundo do Trabalho |
 | 6 | Escavadeira, Colheitadeira e Transportando + desafio de Tecnologia no Campo |
@@ -113,6 +113,92 @@ Há sete encontros para as três turmas A. Para o 5ºB, o núcleo restante cabe 
 | 5 | Parabólica satélite |
 | 6 | Momento do desafio de Meios de Comunicação |
 | 7 | Síntese, registro avaliativo e culminância da série |
+
+## Prioridade experiencial em percursos compactados
+
+Esta seleção é uma hipótese pedagógica, não uma medição de preferência dos estudantes. Ela preserva experiências com movimento, robótica, criação autoral, narrativa e desafio colaborativo como atividade completa. Os outros tópicos da mesma unidade continuam sendo abordados, mas podem funcionar como introdução, comparação, demonstração ou extensão.
+
+| Série | Atividades a preservar como experiência completa | Itens que podem ser integrados sem perder o conceito |
+| --- | --- | --- |
+| 1º | Caça ao tesouro e operação salvamento; Carros malucos e seu desfile; Perdidos no espaço e projeto final | Arraiá de robôs, Lá vem o trem e Zarpar para a Lua podem atuar como narrativa curta, programação guiada ou preparação do projeto. |
+| 2º | Máquina de jogar futebol; Dançando com o Matata e o espetáculo; Os contadores de história | Máquina de desenhar, fábrica de tecidos e Code Stories intermediários podem ser empregados como desafios de programação mais curtos. |
+| 3º | Cores na arte; Robô batedor de asas; Parque de diversões; Ponte rolante; Colheitadeira; desafios de cada unidade | Cores na natureza, robô arbóreo, robô quadrúpede, Circo, Áreas livres, Furadeira, Catraca, Escavadeira e Transportando podem ser comparações, demonstrações ou escolhas por estação. |
+| 4º | Máquina GBC; Ponte levadiça e Grua; Dia e noite; desafio de História da Comunicação | Hodômetro, desafio de Medida, Horas, Segundos e as modalidades de comunicação podem ser integrados aos desafios e à produção final. |
+| 5º | Sistema respiratório; Código Morse; Comunicação por infravermelho; Parabólica satélite; desafio final | Nenhum dos seis encontros de conteúdo precisa ser retirado para o 5ºB; o sétimo encontro permanece para culminância. |
+
+Aplicação: em cada encontro compactado, escolher uma atividade da coluna “preservar” para ser construída, programada ou apresentada pela turma. A coluna de integração não deve ser tratada como conteúdo descartado.
+
+## Referências de páginas — professor e aluno
+
+As referências abaixo são páginas impressas nos materiais, não a posição do arquivo Markdown. Nos 1º e 2º anos, `Aluno` aponta para o Caderno 2. Do 3º ao 5º ano, as páginas do aluno foram verificadas nas seções de estudante apresentadas pelo Manual do Educador; quando a atividade usa um guia de montagem próprio, esse guia é a referência do aluno.
+
+### 1º ano — Caderno 2 e Manual do Educador
+
+| Atividade | Professor — Manual | Aluno — Caderno 2 |
+| --- | --- | --- |
+| Arraiá de robôs | p. 96 | pp. 5–14 |
+| Caça ao tesouro e operação salvamento | p. 106 | pp. 15–22 |
+| Carros malucos | p. 112 | pp. 23–30 |
+| Desfile de carros malucos | p. 118 | pp. 31–36 |
+| Lá vem o trem | p. 124 | pp. 37–44 |
+| Você está pronto para zarpar para a Lua? | p. 132 | pp. 45–50 |
+| Perdidos no espaço: ensaio geral | p. 138 | pp. 51–56 |
+| Projeto Perdidos no espaço | p. 142 | pp. 57–60 |
+
+### 2º ano — Caderno 2 e Manual do Educador
+
+| Atividade | Professor — Manual | Aluno — Caderno 2 |
+| --- | --- | --- |
+| Máquina de jogar futebol | p. 96 | pp. 5–16 |
+| Máquina de desenhar | p. 106 | pp. 17–24 |
+| Dançando com o Matata | p. 112 | pp. 25–30 |
+| Espetáculo de dança com o Matata | p. 118 | pp. 31–34 |
+| Aventura na fábrica de tecidos estampados | p. 122 | pp. 35–42 |
+| Quem conta um conto... | p. 128 | pp. 43–52 |
+| ... aumenta um ponto! | p. 136 | pp. 53–58 |
+| Projeto Os contadores de história | p. 142 | pp. 59–64 |
+
+### 3º ano — Manual do Educador e material do estudante
+
+| Atividade / unidade | Professor — Manual, página inicial | Aluno — página inicial ou guia |
+| --- | ---: | --- |
+| Cores na natureza | p. 108 | p. 83 |
+| Cores na arte | p. 126 | p. 99 |
+| Momento do desafio de Cores | p. 140 | p. 111 |
+| Robô arbóreo | p. 148 | verificar no guia da montagem |
+| Robô quadrúpede | p. 156 | verificar no guia da montagem |
+| Robô batedor de asas | p. 164 | p. 131 |
+| Parque de diversões | p. 176 | p. 143 |
+| Ponte rolante | p. 218 | p. 199 |
+| Colheitadeira | p. 256 | guia de montagem, pp. 2–8 |
+| Escavadeira e Transportando | pp. 246 e 266 | guias de montagem específicos |
+
+### 4º ano — Manual do Educador e material do estudante
+
+| Atividade / unidade | Professor — Manual, página inicial | Aluno — página inicial |
+| --- | ---: | ---: |
+| Hodômetro | p. 106 | p. 85 |
+| Momento do desafio de Instrumentos de Medida | p. 116 | verificar no material do estudante |
+| Máquina GBC | p. 122 | p. 97 |
+| Ponte levadiça | p. 130 | p. 105 |
+| Grua | p. 140 | p. 117 |
+| Dia e noite | p. 152 | p. 129 |
+| Horas | p. 160 | verificar no material do estudante |
+| Segundos | p. 168 | verificar no material do estudante |
+| História da Comunicação | p. 180 | verificar no material do estudante |
+
+### 5º ano — Manual do Educador e material do estudante
+
+| Atividade / unidade | Professor — Manual, página inicial | Aluno — página inicial ou guia |
+| --- | ---: | --- |
+| Sistema respiratório | p. 222 | p. 185 |
+| Momento do desafio de Bem-estar | p. 234 | p. 195 |
+| Código Morse | p. 240 | pp. 4–14 |
+| Comunicação por infravermelho | p. 255 | pp. 2–10 |
+| Parabólica satélite | p. 266 | pp. 2–12 |
+| Momento do desafio de Meios de Comunicação | p. 278 | p. 2 |
+
+> Antes da aula, conferir a edição física ou digital entregue à turma. O acervo contém materiais de 2023 a 2026; a numeração pode variar entre edições, especialmente nos guias de montagem.
 
 ## Leitura de viabilidade
 
