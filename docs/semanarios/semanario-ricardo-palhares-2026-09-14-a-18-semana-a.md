@@ -4,7 +4,7 @@
 
 - Ciclo: Semana A.
 - Fonte: grade de horários, semanários anteriores e plano de conclusão do Fundamental 1.
-- Alertas operacionais: 3ºB/5ºB compartilham 07:15–08:55 de quinta-feira; 1ºA/2ºA compartilham 09:15–10:55 da mesma quinta-feira. O 4ºA aparece com somente 10:55–11:45, sem segundo horário confirmado.
+- Alertas operacionais: o 4ºA aparece com somente 10:55–11:45, sem segundo horário confirmado. O 2ºD foi confirmado como Semana A; 1ºA e 3ºB foram confirmados como Semana B.
 
 ## Visão da semana
 
@@ -12,9 +12,8 @@
 | --- | --- | --- | --- | --- | --- |
 | 2ºB | 16/09, 07:15–08:55 | Mesa giratória | Máquina de jogar futebol | p. 96 | pp. 5–16 |
 | 5ºC | 16/09, 14:55–15:45 | Seguidor de linhas (registro antigo) | Diagnóstico; Sistema respiratório se marco confirmado | p. 222 | p. 185 |
-| 3ºB | 17/09, 07:15–08:55 | Processo de automação | Recuperação: Tomando decisões e O que é cor? | pp. 82 e 92 | a confirmar |
+| 2ºD | 16/09, 15:45–17:25 | Máquina de ondular papel | Recuperação: Teleférico e Mesa giratória | pp. 80 e 86 | pp. 85 e 95 |
 | 5ºB | 17/09, 07:15–08:55 | Sistema digestório | Sistema respiratório | p. 222 | p. 185 |
-| 1ºA | 17/09, 09:15–10:55 | Marco a confirmar | Arraiá de robôs + Caça ao tesouro | pp. 96 e 106 | pp. 5–22 |
 | 2ºA | 17/09, 09:15–10:55 | Marco a confirmar | Máquina de jogar futebol | p. 96 | pp. 5–16 |
 | 4ºA | 17/09, 10:55–11:45 | Marco a confirmar | Diagnóstico e introdução ao Hodômetro | p. 106 | p. 85 |
 
@@ -44,29 +43,26 @@
 | Rota se alinhada | 25 min | Introdução e investigação inicial de Sistema respiratório. |
 | Registro | 10 min | Definir a próxima ação: seguir o plano ou criar recuperação. |
 
-### Bloco compartilhado — 3ºB **ou** 5ºB — 17/09 — 07:15–08:55
+### 2ºD — 16/09 — 15:45–17:25
 
-#### Rota 3ºB — recuperação de marco
+- Objetivo: retomar Teleférico e Mesa giratória para verificar se a turma alcança o marco adotado do 2º ano.
+- Referências: Teleférico — professor p. 80, aluno p. 85; Mesa giratória — professor p. 86, aluno p. 95.
+- Materiais: Caderno 1, peças de montagem e modelos disponíveis.
 
-- Objetivo: avançar de Processo de automação para O que é cor?, recuperando Tomando decisões.
-- Referências: professor pp. 82 e 92; aluno a confirmar na edição da turma.
-- Experiência principal: desafio de tomada de decisões com o VinciBot, seguido de retomada investigativa sobre cor.
+| Etapa | Tempo | Condução |
+| --- | ---: | --- |
+| Diagnóstico | 15 min | Conferir a atividade Máquina de ondular papel e identificar o que a turma recorda sobre mecanismos. |
+| Recuperar | 35 min | Retomar Teleférico como montagem principal. |
+| Síntese guiada | 35 min | Apresentar a Mesa giratória e comparar os movimentos dos dois mecanismos. |
+| Registro | 15 min | Verificar se a turma pode iniciar Máquina de jogar futebol no próximo encontro A. |
 
-#### Rota 5ºB — continuidade oficial
+### 5ºB — 17/09 — 07:15–08:55
 
 - Objetivo: construir e testar o modelo de Sistema respiratório, relacionando inspiração, expiração e troca de gases.
 - Referências: professor p. 222; aluno p. 185.
 - Experiência principal: construção, teste e explicação colaborativa do sistema respiratório.
 
-### Bloco compartilhado — 1ºA **ou** 2ºA — 17/09 — 09:15–10:55
-
-#### Rota 1ºA
-
-- Objetivo: criar sequência de comandos em narrativa de robótica.
-- Referências: Arraiá de robôs — professor p. 96, aluno pp. 5–14; Caça ao tesouro — professor p. 106, aluno pp. 15–22.
-- Experiência principal: Caça ao tesouro e operação salvamento.
-
-#### Rota 2ºA
+### 2ºA — 17/09 — 09:15–10:55
 
 - Objetivo: iniciar programação do Matata em situação de jogo, após diagnóstico breve do marco da turma.
 - Referências: Máquina de jogar futebol — professor p. 96; aluno pp. 5–16.
@@ -86,6 +82,5 @@
 
 ## Decisões necessárias antes de 17/09
 
-1. Definir atendimento ou cobertura para 3ºB/5ºB e 1ºA/2ºA.
-2. Confirmar o segundo horário do 4ºA e do 5ºC.
-3. Registrar o resultado diagnóstico de 5ºC, 2ºA, 1ºA e 4ºA antes de avançar o marco dessas turmas.
+1. Confirmar o segundo horário do 4ºA e do 5ºC.
+2. Registrar o resultado diagnóstico de 5ºC, 2ºA, 2ºD e 4ºA antes de avançar o marco dessas turmas.

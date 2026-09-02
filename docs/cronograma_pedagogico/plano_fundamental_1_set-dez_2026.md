@@ -16,10 +16,10 @@ Foram descontados os feriados nacionais que atingem a grade: 07/09, 02/11 e 20/1
 | --- | --- | ---: | --- |
 | B / segunda | 1ºC | 6 | 21/09, 05/10, 19/10, 16/11, 30/11, 14/12 |
 | B / terça | 3ºD | 8 | 08/09 a 15/12, em semanas B |
-| B / quarta | 2ºD, 4ºB, 4ºD | 7 | 09/09 a 02/12, em semanas B |
-| B / quinta | 2ºC, 4ºC | 7 | 10/09 a 03/12, em semanas B |
+| B / quarta | 4ºB, 4ºD | 7 | 09/09 a 02/12, em semanas B |
+| B / quinta | 1ºA, 2ºC, 3ºB, 4ºC | 7 | 10/09 a 03/12, em semanas B |
 | B / sexta | 3ºA | 6 | 11/09 a 04/12, exceto 20/11 |
-| A / terça a sexta | 1ºA, 1ºB, 2ºA, 2ºB, 3ºB, 3ºC, 4ºA, 5ºA, 5ºB, 5ºC | 7 | 14/09 a 11/12, em semanas A; conforme o dia de cada turma |
+| A / terça a sexta | 1ºB, 2ºA, 2ºB, 2ºD, 3ºC, 4ºA, 5ºA, 5ºB, 5ºC | 7 | 14/09 a 11/12, em semanas A; conforme o dia de cada turma |
 
 > A Semana B de 07/09 é feriado apenas para a turma de segunda-feira (1ºC); as demais turmas B podem iniciar naquela semana. A Semana A de 12/10 não reduz esta grade, pois não há turma A na segunda-feira.
 

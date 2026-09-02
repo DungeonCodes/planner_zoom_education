@@ -5,14 +5,15 @@
 - Ciclo: Semana B.
 - Início de conteúdo oficial: esta é a primeira semana prevista.
 - Fonte: grade de horários, semanários anteriores e plano de conclusão do Fundamental 1.
-- Alerta operacional: 2ºD e 4ºD aparecem no mesmo horário, 15:45–17:25 de quarta-feira. As duas rotas abaixo não podem ser executadas pelo mesmo professor no mesmo bloco.
+- Correções de grade aplicadas: 2ºD é Semana A e não possui aula nesta semana; 1ºA e 3ºB são Semana B e iniciam em 10/09. O bloco de quarta-feira à tarde atende apenas 4ºD na Semana B.
 
 ## Visão da semana
 
 | Turma | Data / horário | Conteúdo de partida | Atividade principal | Professor | Aluno |
 | --- | --- | --- | --- | --- | --- |
 | 4ºB | 09/09, 07:15–08:55 | Balança; Trena a confirmar | Hodômetro | p. 106 | p. 85 |
-| 2ºD | 09/09, 15:45–17:25 | Máquina de ondular papel | Recuperação: Teleférico e Mesa giratória | pp. 80 e 86 | pp. 85 e 95 |
+| 3ºB | 10/09, 07:15–08:55 | Processo de automação | Recuperação: Tomando decisões e O que é cor? | pp. 82 e 92 | a confirmar |
+| 1ºA | 10/09, 09:15–10:55 | Marco a confirmar | Arraiá de robôs + Caça ao tesouro | pp. 96 e 106 | pp. 5–22 |
 | 4ºD | 09/09, 15:45–17:25 | Futebol/Basquete | Recuperação: Trena digital e Balança | pp. 90 e 98 | pp. 72–76 e 81–82 |
 
 ## Planos de aula
@@ -30,21 +31,34 @@
 | Testar | 35 min | Medir percurso e comparar voltas do mecanismo com a distância real. |
 | Registrar | 15 min | Explicar o que o hodômetro mede e como funciona. |
 
-### Bloco compartilhado — 2ºD **ou** 4ºD — 09/09 — 15:45–17:25
+### 1ºA — 10/09 — 09:15–10:55
 
-#### Rota 2ºD — recuperação para alcançar Mesa giratória
-
-- Objetivo: retomar o princípio de funcionamento do Teleférico e da Mesa giratória, verificando se a turma pode ingressar no percurso de programação do 2º ano.
-- Materiais: Caderno 1, peças de montagem e modelos disponíveis.
+- Objetivo: criar sequências de comandos do Matata em uma narrativa de robótica.
+- Referências: Arraiá de robôs — professor p. 96, aluno pp. 5–14; Caça ao tesouro e operação salvamento — professor p. 106, aluno pp. 15–22.
+- Materiais: Caderno 2, Matata, palco da imaginação ou tapete, elementos de cenário.
+- Diagnóstico: confirmar Avião/Foguete e a familiaridade da turma com comandos do robô.
 
 | Etapa | Tempo | Condução |
 | --- | ---: | --- |
-| Diagnóstico | 15 min | Conferir a atividade Máquina de ondular papel e perguntar o que já recordam sobre mecanismos. |
-| Recuperar | 35 min | Retomar Teleférico como montagem principal (professor p. 80; aluno p. 85). |
-| Síntese guiada | 35 min | Apresentar a Mesa giratória, comparando movimentos; usar professor p. 86 e aluno p. 95. |
-| Decisão | 15 min | Registrar se a turma alcançou condições de iniciar Máquina de jogar futebol no próximo encontro B. |
+| Contexto | 10 min | Apresentar a narrativa do Arraiá de robôs. |
+| Programação guiada | 30 min | Realizar Arraiá de robôs. |
+| Desafio principal | 45 min | Realizar Caça ao tesouro e operação salvamento, com teste e correção de comandos. |
+| Registro | 15 min | Desenhar ou escrever a sequência que levou o robô ao objetivo. |
 
-#### Rota 4ºD — recuperação para alcançar Hodômetro
+### 3ºB — 10/09 — 07:15–08:55
+
+- Objetivo: avançar de Processo de automação para O que é cor?, recuperando Tomando decisões.
+- Referências: professor pp. 82 e 92; aluno a confirmar na edição da turma.
+- Materiais: VinciBot, tapete de missões, apostila e materiais da unidade Cores no Mundo.
+
+| Etapa | Tempo | Condução |
+| --- | ---: | --- |
+| Retomada | 15 min | Revisar o que caracteriza um processo de automação. |
+| Desafio | 35 min | Realizar atividade de tomada de decisões com o VinciBot. |
+| Investigar | 35 min | Introduzir “O que é cor?” com observação guiada e registro de hipóteses. |
+| Registro | 15 min | Verificar se a turma alcançou o marco para iniciar Cores na natureza no próximo encontro B. |
+
+### 4ºD — 09/09 — 15:45–17:25
 
 - Objetivo: consolidar instrumentos de medida por meio de Trena digital e Balança.
 - Materiais: apostila, peças de montagem, objetos para medir e comparar massas.
@@ -56,6 +70,4 @@
 | Testar | 35 min | Balança (professor p. 98; aluno pp. 81–82). |
 | Registrar | 15 min | Comparar o que cada instrumento mede. |
 
-## Decisão necessária
-
-Antes de 09/09, definir qual turma será atendida neste bloco ou qual profissional assumirá a segunda rota. O semanário não presume que duas aulas simultâneas possam ocorrer com um único professor.
+- Registro pós-aula: anotar se a turma concluiu Trena digital e Balança; o próximo marco é Hodômetro.

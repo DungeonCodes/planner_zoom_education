@@ -11,5 +11,8 @@ Este diretório registra decisões duráveis do projeto no formato *Architecture
 | [005](005-planejamento-setembro-dezembro-2026.md) | Planejamento quinzenal de 07/09 a 15/12/2026 | Aceita |
 | [006](006-priorizacao-de-atividades-experienciais.md) | Preservar atividades de maior engajamento nos percursos compactados | Aceita |
 | [007](007-skill-para-semanarios.md) | Skill reutilizável para criação de semanários | Aceita |
+| [008](008-correcao-do-ciclo-do-2d.md) | Correção de 2ºD para Semana A | Aceita |
+| [009](009-correcao-do-ciclo-do-1a.md) | Correção de 1ºA para Semana B | Aceita |
+| [010](010-correcao-do-ciclo-do-3b.md) | Correção de 3ºB para Semana B | Aceita |
 
 Os registros antigos em [decisions.md](../decisions.md) permanecem preservados como histórico anterior à adoção deste formato.

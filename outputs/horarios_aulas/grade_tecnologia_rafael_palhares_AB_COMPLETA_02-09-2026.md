@@ -42,10 +42,10 @@ Conversão integral da planilha original em `/data/horarios_aulas/grade_tecnolog
 |  |  |  |  |  |  |  |
 | MANHÃ | MANHÃ | MANHÃ | MANHÃ | MANHÃ | MANHÃ | MANHÃ |
 | Aula | Horário | Segunda | Terça | Quarta | Quinta | Sexta |
-| 1ª | 07:15–08:05 | — | — | 2ºB [A] / 4ºB [B] | 3ºB [A] / 5ºB [A] | — |
-| 2ª | 08:05–08:55 | — | — | 2ºB [A] / 4ºB [B] | 3ºB [A] / 5ºB [A] | — |
-| 3ª | 09:15–10:05 | — | — | — | 1ºA [A] / 2ºA [A] | — |
-| 4ª | 10:05–10:55 | — | — | — | 1ºA [A] / 2ºA [A] | — |
+| 1ª | 07:15–08:05 | — | — | 2ºB [A] / 4ºB [B] | 3ºB [B] / 5ºB [A] | — |
+| 2ª | 08:05–08:55 | — | — | 2ºB [A] / 4ºB [B] | 3ºB [B] / 5ºB [A] | — |
+| 3ª | 09:15–10:05 | — | — | — | 1ºA [B] / 2ºA [A] | — |
+| 4ª | 10:05–10:55 | — | — | — | 1ºA [B] / 2ºA [A] | — |
 | 5ª | 10:55–11:45* | — | — | — | 4ºA [A] | — |
 |  |  |  |  |  |  |  |
 | TARDE | TARDE | TARDE | TARDE | TARDE | TARDE | TARDE |
@@ -53,8 +53,8 @@ Conversão integral da planilha original em `/data/horarios_aulas/grade_tecnolog
 | 1ª | 12:55–13:45 | — | — | — | — | — |
 | 2ª | 13:45–14:35 | — | — | — | — | — |
 | 3ª | 14:55–15:45 | — | — | 5ºC [A] | — | — |
-| 4ª | 15:45–16:35 | — | — | 2ºD [B] / 4ºD [B] | — | — |
-| 5ª | 16:35–17:25 | — | — | 2ºD [B] / 4ºD [B] | — | — |
+| 4ª | 15:45–16:35 | — | — | 2ºD [A] / 4ºD [B] | — | — |
+| 5ª | 16:35–17:25 | — | — | 2ºD [A] / 4ºD [B] | — | — |
 |  |  |  |  |  |  |  |
 | Nota: Semana A iniciou em 31/08/2026 e Semana B corresponde à semana anterior. Todas as turmas já estão classificadas. * 5ª aula da manhã (10:55–11:45) foi inferida pela sequência de aulas de 50 minutos do print. | Nota: Semana A iniciou em 31/08/2026 e Semana B corresponde à semana anterior. Todas as turmas já estão classificadas. * 5ª aula da manhã (10:55–11:45) foi inferida pela sequência de aulas de 50 minutos do print. | Nota: Semana A iniciou em 31/08/2026 e Semana B corresponde à semana anterior. Todas as turmas já estão classificadas. * 5ª aula da manhã (10:55–11:45) foi inferida pela sequência de aulas de 50 minutos do print. | Nota: Semana A iniciou em 31/08/2026 e Semana B corresponde à semana anterior. Todas as turmas já estão classificadas. * 5ª aula da manhã (10:55–11:45) foi inferida pela sequência de aulas de 50 minutos do print. | Nota: Semana A iniciou em 31/08/2026 e Semana B corresponde à semana anterior. Todas as turmas já estão classificadas. * 5ª aula da manhã (10:55–11:45) foi inferida pela sequência de aulas de 50 minutos do print. | Nota: Semana A iniciou em 31/08/2026 e Semana B corresponde à semana anterior. Todas as turmas já estão classificadas. * 5ª aula da manhã (10:55–11:45) foi inferida pela sequência de aulas de 50 minutos do print. | Nota: Semana A iniciou em 31/08/2026 e Semana B corresponde à semana anterior. Todas as turmas já estão classificadas. * 5ª aula da manhã (10:55–11:45) foi inferida pela sequência de aulas de 50 minutos do print. |
 |  |  |  |  |  |  |  |
@@ -68,15 +68,15 @@ Conversão integral da planilha original em `/data/horarios_aulas/grade_tecnolog
 | --- | --- | --- | --- | --- | --- | --- |
 | Professoras — Fundamental I | Professoras — Fundamental I | Professoras — Fundamental I | Professoras — Fundamental I | Professoras — Fundamental I | Professoras — Fundamental I | Professoras — Fundamental I |
 | Turma | Professora | Semana | Situação |  |  |  |
-| 1ºA | Deia | A | Confirmado |  |  |  |
+| 1ºA | Deia | B | Confirmado |  |  |  |
 | 1ºB | Deia | A | Confirmado |  |  |  |
 | 1ºC | Giovanna | B | Confirmado |  |  |  |
 | 2ºA | Giovanna | A | Confirmado |  |  |  |
 | 2ºB | Vanessa | A | Confirmado |  |  |  |
 | 2ºC | Vanessa | B | Confirmado |  |  |  |
-| 2ºD | Pati | B | Confirmado |  |  |  |
+| 2ºD | Pati | A | Confirmado |  |  |  |
 | 3ºA | Bruna | B | Confirmado |  |  |  |
-| 3ºB | Alê | A | Confirmado |  |  |  |
+| 3ºB | Alê | B | Confirmado |  |  |  |
 | 3ºC | Bruna | A | Confirmado |  |  |  |
 | 3ºD | Alê | B | Confirmado |  |  |  |
 | 4ºA | Carol | A | Confirmado |  |  |  |
@@ -94,11 +94,11 @@ Conversão integral da planilha original em `/data/horarios_aulas/grade_tecnolog
 | Resumo — Semanas A e B | Resumo — Semanas A e B | Resumo — Semanas A e B | Resumo — Semanas A e B | Resumo — Semanas A e B | Resumo — Semanas A e B | Resumo — Semanas A e B |
 |  |  |  |  |  |  |  |
 | Semana A | Semana B | Situação |  |  |  |  |
-| 1ºA | 1ºC | Todas confirmadas |  |  |  |  |
+| — | 1ºA / 1ºC | Ambas na Semana B |  |  |  |  |
 | 1ºB | 2ºC |  |  |  |  |  |
-| 2ºA | 2ºD |  |  |  |  |  |
+| 2ºA / 2ºD | — | Ambas na Semana A |  |  |  |  |
 | 2ºB | 3ºA |  |  |  |  |  |
-| 3ºB | 3ºD |  |  |  |  |  |
+| — | 3ºB / 3ºD | Ambas na Semana B |  |  |  |  |
 | 3ºC | 4ºB |  |  |  |  |  |
 | 4ºA | 4ºC |  |  |  |  |  |
 | 5ºA | 4ºD |  |  |  |  |  |
