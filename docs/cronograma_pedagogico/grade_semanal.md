@@ -1,36 +1,35 @@
 # Grade Semanal de Pensamento Computacional
 
+Fonte operacional: grade atualizada do Prof. Palhares, consolidada em 03/09/2026. As turmas A e B são quinzenais; 4ºA e 5ºC são semanais.
+
 ## Rafael Martins
 
-### Manhã
-
-| Dia | Horários | Turmas quinzenais | Semana A / Semana B | Observações |
-| --- | --- | --- | --- | --- |
-| Sexta | 01º–02º | 5.ºA / 3.ºA | A definir | |
-
-### Tarde
-
-| Dia | Horários | Turmas quinzenais | Semana A / Semana B | Observações |
-| --- | --- | --- | --- | --- |
-| Segunda | 04º–05º | 1.ºC | A definir | |
-| Terça | 01º–02º | 3.ºC / 3.ºD | A definir | |
-| Quarta | 01º–02º | 4.ºC / 1.ºB | A definir | |
-| Quinta | 04º–05º | 2.ºC | A definir | |
+| Dia | Horário | Turma | Frequência |
+| --- | --- | --- | --- |
+| Sexta | 07:15–08:55 | 5ºA | Semana A, quinzenal |
+| Sexta | 07:15–08:55 | 3ºA | Semana B, quinzenal |
+| Segunda | 15:45–17:25 | 1ºC | Semana B, quinzenal |
+| Terça | 12:55–14:35 | 3ºC | Semana A, quinzenal |
+| Terça | 12:55–14:35 | 3ºD | Semana B, quinzenal |
+| Terça | 15:45–17:25 | 1ºB | Semana A, quinzenal |
+| Quinta | 12:55–14:35 | 4ºC | Semana B, quinzenal |
+| Quinta | 15:45–17:25 | 2ºC | Semana B, quinzenal |
 
 ## Ricardo Palhares
 
-### Manhã
+| Dia | Horário | Turma | Frequência |
+| --- | --- | --- | --- |
+| Quarta | 07:15–08:55 | 2ºB | Semana A, quinzenal |
+| Quarta | 07:15–08:55 | 4ºB | Semana B, quinzenal |
+| Quarta | 14:35–15:45 | 5ºC | Semanal |
+| Quarta | 15:45–17:25 | 2ºD | Semana A, quinzenal |
+| Quarta | 15:45–17:25 | 4ºD | Semana B, quinzenal |
+| Quinta | 07:15–08:55 | 3ºB | Semana B, quinzenal |
+| Quinta | 07:15–08:55 | 5ºB | Semana A, quinzenal |
+| Quinta | 08:55–09:20 e 10:05–10:55 | 1ºA | Semana B, quinzenal |
+| Quinta | 08:55–09:20 e 10:05–10:55 | 2ºA | Semana A, quinzenal |
+| Quinta | 10:55–11:45 | 4ºA | Semanal |
 
-| Dia | Horários | Turmas quinzenais | Semana A / Semana B | Observações |
-| --- | --- | --- | --- | --- |
-| Quarta | 01º–02º | 2.ºB / 4.ºB | A definir | |
-| Quinta | 01º–02º | 3.ºB / 5.ºB | A definir | |
-| Quinta | 03º–04º | 1.ºA / 2.ºA | A definir | |
-| Quinta | 05º | 4.ºA | A definir | Apenas um horário informado; confirmar complemento. |
+## Regra de preparação compartilhada
 
-### Tarde
-
-| Dia | Horários | Turmas quinzenais | Semana A / Semana B | Observações |
-| --- | --- | --- | --- | --- |
-| Quarta | 03º | 5.ºC | A definir | Apenas um horário informado; confirmar complemento. |
-| Quarta | 04º–05º | 2.ºD / 4.ºD | A definir | |
+Quando turmas da mesma série se encontram na mesma semana, Rafael e Ricardo aplicam a mesma aula oficial: objetivo, experiência principal, referências e produto esperado. A duração, o intervalo entre blocos ou um diagnóstico inicial não muda essa aula. Consulte o [ADR-011](../adr/011-aula-compartilhada-por-serie.md).

@@ -9,8 +9,6 @@ Esta pasta organiza a estrutura do cronograma das aulas de Pensamento Computacio
 
 ## Convenções
 
-* A regra informada é que cada turma tenha uma aula dobrada, composta por dois horários consecutivos.
-* As aulas são quinzenais. O ciclo será identificado posteriormente como Semana A e Semana B.
-* Uma barra entre turmas indica que elas compartilham o mesmo bloco em semanas alternadas; a associação de cada turma à Semana A ou B ainda não foi definida.
-* Blocos com uma única turma permanecem sem data e sem atribuição de ciclo até a definição do calendário letivo.
-* Os registros de 4.ºA e 5.ºC foram recebidos com somente um horário cada e estão marcados para conferência; nenhum horário complementar foi inferido.
+* A maioria das turmas é quinzenal, nos ciclos Semana A ou Semana B; 4ºA e 5ºC são semanais.
+* A grade vigente, com horários e ciclos confirmados, está em `grade_semanal.md`; a conversão integral da planilha está em `../../outputs/horarios_aulas/`.
+* Aulas da mesma série que ocorrem na mesma semana usam a mesma aula oficial, conforme o ADR-011. Duração ou blocos não consecutivos não mudam a experiência principal.

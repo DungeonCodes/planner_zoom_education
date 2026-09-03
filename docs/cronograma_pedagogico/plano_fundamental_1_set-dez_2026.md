@@ -4,9 +4,11 @@
 
 Concluir o núcleo pedagógico restante dos materiais Zoom do 1º ao 5º ano, usando como referência de entrada o conteúdo mais avançado registrado em cada série. O plano começa com conteúdo oficial na **Semana B iniciada em 07/09/2026**; a Semana A iniciada em 31/08 não recebe conteúdo oficial novo, pois já está em andamento.
 
-O período letivo considerado termina em **15/12/2026**. A grade é quinzenal e trabalha com encontros dobrados de 100 minutos, exceto o 4ºA, que aparece na grade com apenas um horário de 50 minutos e deve ser confirmado.
+O período letivo considerado termina em **15/12/2026**. A maior parte da grade é quinzenal; 4ºA e 5ºC são semanais. A duração ou a divisão dos blocos não altera a aula oficial compartilhada da série.
 
 As referências de avanço são os semanários disponíveis. Turmas sem registro recente precisam de uma verificação diagnóstica breve no início do primeiro encontro; ausência de registro não é prova de defasagem.
+
+Para viabilizar o preparo compartilhado entre Rafael e Ricardo, turmas da mesma série que se encontram na mesma semana seguem a mesma aula oficial: objetivo, experiência principal, referências e produto esperado. O diagnóstico ou a retomada de até 15 minutos pode variar por turma, mas não substitui a aula comum.
 
 ## Datas e capacidade de encontros
 
@@ -19,7 +21,9 @@ Foram descontados os feriados nacionais que atingem a grade: 07/09, 02/11 e 20/1
 | B / quarta | 4ºB, 4ºD | 7 | 09/09 a 02/12, em semanas B |
 | B / quinta | 1ºA, 2ºC, 3ºB, 4ºC | 7 | 10/09 a 03/12, em semanas B |
 | B / sexta | 3ºA | 6 | 11/09 a 04/12, exceto 20/11 |
-| A / terça a sexta | 1ºB, 2ºA, 2ºB, 2ºD, 3ºC, 4ºA, 5ºA, 5ºB, 5ºC | 7 | 14/09 a 11/12, em semanas A; conforme o dia de cada turma |
+| Semanal / quarta | 5ºC | 14 | 09/09 a 09/12 |
+| Semanal / quinta | 4ºA | 14 | 10/09 a 10/12 |
+| A / terça a sexta | 1ºB, 2ºA, 2ºB, 2ºD, 3ºC, 5ºA, 5ºB | 7 | 14/09 a 11/12, em semanas A; conforme o dia de cada turma |
 
 > A Semana B de 07/09 é feriado apenas para a turma de segunda-feira (1ºC); as demais turmas B podem iniciar naquela semana. A Semana A de 12/10 não reduz esta grade, pois não há turma A na segunda-feira.
 
@@ -38,7 +42,7 @@ Foram descontados os feriados nacionais que atingem a grade: 07/09, 02/11 e 20/1
 1. Reservar os primeiros 10 a 15 minutos para verificar caderno, montagem, páginas realizadas e domínio do marco da série.
 2. Se a turma estiver no marco, iniciar a sequência abaixo imediatamente.
 3. Se estiver até uma unidade atrás, recuperar o essencial com demonstração, estação de montagem ou atividade guiada dentro do mesmo encontro.
-4. Se estiver mais de uma unidade atrás, registrar a situação. Não é pedagogicamente viável concluir toda a recuperação e o novo percurso sem retirar atividades; a decisão deve ser tomada com a coordenação.
+4. Se estiver mais de uma unidade atrás, registrar a situação e encaminhá-la à coordenação. A defasagem não substitui a experiência principal compartilhada da semana; a recuperação adicional precisa ser planejada sem trocar essa aula.
 
 ## Sequência oficial por série
 
@@ -88,7 +92,7 @@ Há seis encontros para 3ºA e sete para 3ºB/3ºC, com oito para 3ºD. O materi
 
 ### 4º ano — após Trena digital e Balança
 
-Há sete encontros para 4ºB/4ºC/4ºD. O 4ºA deve ser confirmado, pois tem somente um bloco indicado. Também é um percurso compactado: as três unidades finais não cabem como encontros isolados.
+Há sete encontros para 4ºB/4ºC/4ºD e quatorze encontros semanais para 4ºA. O 4ºA segue a mesma sequência oficial, podendo distribuir uma montagem e seus testes entre encontros sucessivos. Também é um percurso compactado: as três unidades finais não cabem como encontros isolados.
 
 | Encontro | Conteúdo oficial compactado |
 | ---: | --- |
@@ -102,7 +106,7 @@ Há sete encontros para 4ºB/4ºC/4ºD. O 4ºA deve ser confirmado, pois tem som
 
 ### 5º ano — após Sistema digestório
 
-Há sete encontros para as três turmas A. Para o 5ºB, o núcleo restante cabe sem compactação obrigatória e ainda deixa um encontro de síntese. Para 5ºA e 5ºC, a sequência só deve ser aplicada após a verificação diagnóstica, porque os semanários disponíveis mostram marcos anteriores.
+Há sete encontros para 5ºA e 5ºB e quatorze encontros semanais para 5ºC. As três turmas seguem a mesma experiência oficial quando se encontram na mesma semana; o 5ºC pode usar seus encontros adicionais para preparação, teste, registro e extensão da mesma sequência. Para 5ºA e 5ºC, registrar o diagnóstico inicial, porque os semanários disponíveis mostram marcos anteriores.
 
 | Encontro | Conteúdo oficial |
 | ---: | --- |
@@ -207,12 +211,11 @@ As referências abaixo são páginas impressas nos materiais, não a posição d
 | 1º | Viável, desde que Code Stories e projetos sejam integrados como previsto; o 1ºC não tem encontro de reserva. |
 | 2º | Viável com a integração do último Code Story, projeto e síntese. |
 | 3º | Viável apenas como percurso priorizado e compactado. Executar todas as montagens posteriores com tempo integral exigiria mais encontros que os disponíveis. |
-| 4º | Viável apenas como percurso priorizado e compactado. Confirmar o segundo horário do 4ºA antes de aplicar esta meta. |
+| 4º | Viável apenas como percurso priorizado e compactado. O 4ºA é semanal e pode distribuir montagem, teste e registro em encontros sucessivos. |
 | 5º | Viável para o 5ºB. Para 5ºA e 5ºC, depende de confirmação de avanço não registrado; a recuperação completa a partir dos marcos antigos não cabe no período. |
 
 ## Pendências antes da primeira aula oficial
 
 - Confirmar o calendário escolar local, incluindo recessos, eventos e feriados municipais.
-- Confirmar se 4ºA possui o segundo horário do encontro dobrado.
 - Aplicar a verificação diagnóstica em todas as turmas, sobretudo 1ºA, 1ºB, 2ºA, 3ºC, 4ºA, 5ºA e 5ºC.
 - Definir com a coordenação quais construções dos 3º e 4º anos são obrigatórias e quais podem ficar como extensão, caso a escola exija todas as atividades do material.

@@ -14,5 +14,7 @@ Este diretório registra decisões duráveis do projeto no formato *Architecture
 | [008](008-correcao-do-ciclo-do-2d.md) | Correção de 2ºD para Semana A | Aceita |
 | [009](009-correcao-do-ciclo-do-1a.md) | Correção de 1ºA para Semana B | Aceita |
 | [010](010-correcao-do-ciclo-do-3b.md) | Correção de 3ºB para Semana B | Aceita |
+| [011](011-aula-compartilhada-por-serie.md) | Aula compartilhada por série e semana | Aceita |
+| [012](012-grade-semanal-4a-5c.md) | 4ºA e 5ºC como turmas semanais | Aceita |
 
 Os registros antigos em [decisions.md](../decisions.md) permanecem preservados como histórico anterior à adoção deste formato.

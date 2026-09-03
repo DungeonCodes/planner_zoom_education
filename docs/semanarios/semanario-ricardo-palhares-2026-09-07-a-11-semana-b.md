@@ -5,16 +5,18 @@
 - Ciclo: Semana B.
 - Início de conteúdo oficial: esta é a primeira semana prevista.
 - Fonte: grade de horários, semanários anteriores e plano de conclusão do Fundamental 1.
-- Correções de grade aplicadas: 2ºD é Semana A e não possui aula nesta semana; 1ºA e 3ºB são Semana B e iniciam em 10/09. O bloco de quarta-feira à tarde atende apenas 4ºD na Semana B.
+- Grade atualizada: 1ºA e 3ºB são Semana B; 4ºA e 5ºC são semanais. As adaptações de tempo não alteram a experiência principal compartilhada por série.
 
 ## Visão da semana
 
 | Turma | Data / horário | Conteúdo de partida | Atividade principal | Professor | Aluno |
 | --- | --- | --- | --- | --- | --- |
 | 4ºB | 09/09, 07:15–08:55 | Balança; Trena a confirmar | Hodômetro | p. 106 | p. 85 |
-| 3ºB | 10/09, 07:15–08:55 | Processo de automação | Recuperação: Tomando decisões e O que é cor? | pp. 82 e 92 | a confirmar |
-| 1ºA | 10/09, 09:15–10:55 | Marco a confirmar | Arraiá de robôs + Caça ao tesouro | pp. 96 e 106 | pp. 5–22 |
-| 4ºD | 09/09, 15:45–17:25 | Futebol/Basquete | Recuperação: Trena digital e Balança | pp. 90 e 98 | pp. 72–76 e 81–82 |
+| 5ºC | 09/09, 14:35–15:45 | Seguidor de linhas (registro antigo) | Diagnóstico + preparação para Sistema respiratório | p. 222 | p. 185 |
+| 3ºB | 10/09, 07:15–08:55 | Processo de automação (registro antigo; diagnóstico) | Cores na natureza e Cores na arte | pp. 108 e 126 | pp. 83 e 99 |
+| 1ºA | 10/09, 08:55–09:20 e 10:05–10:55 | Marco a confirmar | Arraiá de robôs + Caça ao tesouro | pp. 96 e 106 | pp. 5–22 |
+| 4ºA | 10/09, 10:55–11:45 | Marco a confirmar | Hodômetro | p. 106 | p. 85 |
+| 4ºD | 09/09, 15:45–17:25 | Futebol/Basquete (registro antigo; diagnóstico) | Hodômetro | p. 106 | p. 85 |
 
 ## Planos de aula
 
@@ -31,7 +33,7 @@
 | Testar | 35 min | Medir percurso e comparar voltas do mecanismo com a distância real. |
 | Registrar | 15 min | Explicar o que o hodômetro mede e como funciona. |
 
-### 1ºA — 10/09 — 09:15–10:55
+### 1ºA — 10/09 — 08:55–09:20 e 10:05–10:55
 
 - Objetivo: criar sequências de comandos do Matata em uma narrativa de robótica.
 - Referências: Arraiá de robôs — professor p. 96, aluno pp. 5–14; Caça ao tesouro e operação salvamento — professor p. 106, aluno pp. 15–22.
@@ -41,33 +43,56 @@
 | Etapa | Tempo | Condução |
 | --- | ---: | --- |
 | Contexto | 10 min | Apresentar a narrativa do Arraiá de robôs. |
-| Programação guiada | 30 min | Realizar Arraiá de robôs. |
-| Desafio principal | 45 min | Realizar Caça ao tesouro e operação salvamento, com teste e correção de comandos. |
-| Registro | 15 min | Desenhar ou escrever a sequência que levou o robô ao objetivo. |
+| Programação guiada | 25 min | Realizar Arraiá de robôs. |
+| Desafio principal | 30 min | Realizar Caça ao tesouro e operação salvamento, com teste e correção de comandos. |
+| Registro | 10 min | Desenhar ou escrever a sequência que levou o robô ao objetivo. |
+
+### 5ºC — 09/09 — 14:35–15:45
+
+- Objetivo: confirmar rapidamente o ponto de partida e preparar os conceitos que serão usados na aula comum de Sistema respiratório da Semana A.
+- Referências: professor p. 222; aluno p. 185.
+
+| Etapa | Tempo | Condução |
+| --- | ---: | --- |
+| Diagnóstico | 15 min | Conferir caderno e registrar a última montagem efetivamente concluída. |
+| Preparar | 40 min | Relacionar digestão, respiração e troca de gases por observação guiada do material. |
+| Registro | 15 min | Formular uma hipótese sobre inspiração e expiração para retomar na aula comum. |
 
 ### 3ºB — 10/09 — 07:15–08:55
 
-- Objetivo: avançar de Processo de automação para O que é cor?, recuperando Tomando decisões.
-- Referências: professor pp. 82 e 92; aluno a confirmar na edição da turma.
-- Materiais: VinciBot, tapete de missões, apostila e materiais da unidade Cores no Mundo.
+- Objetivo: realizar a mesma aula oficial do 3º ano nesta Semana B: relacionar cores presentes na natureza e nas produções artísticas, criando e justificando escolhas de cor.
+- Referências: Cores na natureza — professor p. 108, aluno p. 83; Cores na arte — professor p. 126, aluno p. 99.
+- Materiais: apostila, materiais da unidade Cores no Mundo, cartões ou imagens de cores e produções artísticas.
 
 | Etapa | Tempo | Condução |
 | --- | ---: | --- |
-| Retomada | 15 min | Revisar o que caracteriza um processo de automação. |
-| Desafio | 35 min | Realizar atividade de tomada de decisões com o VinciBot. |
-| Investigar | 35 min | Introduzir “O que é cor?” com observação guiada e registro de hipóteses. |
-| Registro | 15 min | Verificar se a turma alcançou o marco para iniciar Cores na natureza no próximo encontro B. |
+| Diagnóstico | 10 min | Retomar o registro de Processo de automação e verificar os conhecimentos essenciais para acompanhar a aula comum. |
+| Investigar | 35 min | Realizar Cores na natureza com observação guiada e levantamento de hipóteses. |
+| Criar | 40 min | Realizar Cores na arte, usando cores de modo intencional na produção. |
+| Registro | 15 min | Explicar a escolha de cores e registrar a evidência para o próximo encontro compartilhado do 3º ano. |
+
+### 4ºA — 10/09 — 10:55–11:45
+
+- Objetivo: iniciar a mesma experiência oficial do 4º ano, o Hodômetro.
+- Referências: professor p. 106; aluno p. 85.
+
+| Etapa | Tempo | Condução |
+| --- | ---: | --- |
+| Diagnóstico | 10 min | Conferir o ponto de partida sem trocar a aula principal. |
+| Construir | 30 min | Iniciar a montagem do Hodômetro. |
+| Registrar | 10 min | Registrar o que o mecanismo mede; a continuação ocorre no próximo encontro semanal. |
 
 ### 4ºD — 09/09 — 15:45–17:25
 
-- Objetivo: consolidar instrumentos de medida por meio de Trena digital e Balança.
-- Materiais: apostila, peças de montagem, objetos para medir e comparar massas.
+- Objetivo: realizar a mesma experiência oficial do 4º ano, construindo e testando um Hodômetro.
+- Referências: professor p. 106; aluno p. 85.
+- Materiais: apostila, peças de montagem, fita adesiva, fita métrica ou trena e superfície para teste.
 
 | Etapa | Tempo | Condução |
 | --- | ---: | --- |
-| Retomada | 10 min | Relacionar Futebol/Basquete a medidas e registros de desempenho. |
-| Construir | 40 min | Trena digital (professor p. 90; aluno pp. 72–76). |
-| Testar | 35 min | Balança (professor p. 98; aluno pp. 81–82). |
-| Registrar | 15 min | Comparar o que cada instrumento mede. |
+| Diagnóstico | 10 min | Retomar o registro de Futebol/Basquete e verificar os conhecimentos essenciais para acompanhar a aula comum. |
+| Construir | 40 min | Montagem do Hodômetro. |
+| Testar | 35 min | Medir um percurso; comparar voltas, marcações e distância real. |
+| Registrar | 15 min | Explicar como o mecanismo transforma movimento em medida. |
 
-- Registro pós-aula: anotar se a turma concluiu Trena digital e Balança; o próximo marco é Hodômetro.
+- Registro pós-aula: anotar a evidência de aprendizagem e qualquer defasagem observada, sem substituir a aula oficial seguinte do 4º ano.

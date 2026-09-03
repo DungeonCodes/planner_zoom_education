@@ -4,7 +4,7 @@
 
 - Ciclo: Semana A.
 - Fonte: grade de horários e plano de conclusão do Fundamental 1.
-- Regra: turmas sem registro recente recebem diagnóstico de no máximo 15 minutos; o conteúdo oficial segue em seguida, se o marco for confirmado.
+- Regra: turmas sem registro recente recebem diagnóstico de no máximo 15 minutos; o conteúdo oficial compartilhado segue em seguida, com apoio pontual quando necessário.
 
 ## Visão da semana
 
@@ -55,4 +55,4 @@
 | Construir e testar | 50 min | Sistema respiratório (professor p. 222; aluno p. 185). |
 | Fechar | 15 min | Registrar hipótese sobre inspiração e expiração. |
 
-- Adaptação: se a turma estiver mais de uma unidade antes do marco, registrar a defasagem e aplicar recuperação dirigida; não avançar artificialmente sem decisão da coordenação.
+- Adaptação: se a turma estiver mais de uma unidade antes do marco, registrar a defasagem e organizar recuperação dirigida adicional; preservar Sistema respiratório como a aula oficial compartilhada da semana.

@@ -1,6 +1,6 @@
 # ADR-005 — Planejamento quinzenal de 07/09 a 15/12/2026
 
-- Status: Aceita
+- Status: Aceita; parcialmente superada pelo ADR-012 quanto à frequência do 4ºA
 - Data: 2026-09-02
 
 ## Contexto
@@ -13,4 +13,4 @@ Planejar por encontros, a partir da Semana B, com sete encontros para a maior pa
 
 ## Consequências
 
-O 1º, 2º e 5ºB podem concluir o núcleo restante com integrações pontuais. O 3º e 4º ano exigem compactação por unidade. O 4ºA requer confirmação de seu segundo horário antes de assumir o mesmo alcance das demais turmas.
+O 1º, 2º e 5ºB podem concluir o núcleo restante com integrações pontuais. O 3º e 4º ano exigem compactação por unidade. A condição anterior do 4ºA foi substituída pelo ADR-012, que o classifica como turma semanal.

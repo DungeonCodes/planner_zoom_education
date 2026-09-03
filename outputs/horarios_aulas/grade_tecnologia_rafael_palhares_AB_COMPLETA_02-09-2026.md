@@ -44,19 +44,19 @@ Conversão integral da planilha original em `/data/horarios_aulas/grade_tecnolog
 | Aula | Horário | Segunda | Terça | Quarta | Quinta | Sexta |
 | 1ª | 07:15–08:05 | — | — | 2ºB [A] / 4ºB [B] | 3ºB [B] / 5ºB [A] | — |
 | 2ª | 08:05–08:55 | — | — | 2ºB [A] / 4ºB [B] | 3ºB [B] / 5ºB [A] | — |
-| 3ª | 09:15–10:05 | — | — | — | 1ºA [B] / 2ºA [A] | — |
+| 3ª | 08:55–09:20 | — | — | — | 1ºA [B] / 2ºA [A] | — |
 | 4ª | 10:05–10:55 | — | — | — | 1ºA [B] / 2ºA [A] | — |
-| 5ª | 10:55–11:45* | — | — | — | 4ºA [A] | — |
+| 5ª | 10:55–11:45 | — | — | — | 4ºA [Semanal] | — |
 |  |  |  |  |  |  |  |
 | TARDE | TARDE | TARDE | TARDE | TARDE | TARDE | TARDE |
 | Aula | Horário | Segunda | Terça | Quarta | Quinta | Sexta |
 | 1ª | 12:55–13:45 | — | — | — | — | — |
 | 2ª | 13:45–14:35 | — | — | — | — | — |
-| 3ª | 14:55–15:45 | — | — | 5ºC [A] | — | — |
+| 3ª | 14:35–15:45 | — | — | 5ºC [Semanal] | — | — |
 | 4ª | 15:45–16:35 | — | — | 2ºD [A] / 4ºD [B] | — | — |
 | 5ª | 16:35–17:25 | — | — | 2ºD [A] / 4ºD [B] | — | — |
 |  |  |  |  |  |  |  |
-| Nota: Semana A iniciou em 31/08/2026 e Semana B corresponde à semana anterior. Todas as turmas já estão classificadas. * 5ª aula da manhã (10:55–11:45) foi inferida pela sequência de aulas de 50 minutos do print. | Nota: Semana A iniciou em 31/08/2026 e Semana B corresponde à semana anterior. Todas as turmas já estão classificadas. * 5ª aula da manhã (10:55–11:45) foi inferida pela sequência de aulas de 50 minutos do print. | Nota: Semana A iniciou em 31/08/2026 e Semana B corresponde à semana anterior. Todas as turmas já estão classificadas. * 5ª aula da manhã (10:55–11:45) foi inferida pela sequência de aulas de 50 minutos do print. | Nota: Semana A iniciou em 31/08/2026 e Semana B corresponde à semana anterior. Todas as turmas já estão classificadas. * 5ª aula da manhã (10:55–11:45) foi inferida pela sequência de aulas de 50 minutos do print. | Nota: Semana A iniciou em 31/08/2026 e Semana B corresponde à semana anterior. Todas as turmas já estão classificadas. * 5ª aula da manhã (10:55–11:45) foi inferida pela sequência de aulas de 50 minutos do print. | Nota: Semana A iniciou em 31/08/2026 e Semana B corresponde à semana anterior. Todas as turmas já estão classificadas. * 5ª aula da manhã (10:55–11:45) foi inferida pela sequência de aulas de 50 minutos do print. | Nota: Semana A iniciou em 31/08/2026 e Semana B corresponde à semana anterior. Todas as turmas já estão classificadas. * 5ª aula da manhã (10:55–11:45) foi inferida pela sequência de aulas de 50 minutos do print. |
+| Nota: Semana A iniciou em 31/08/2026. 4ºA e 5ºC são semanais; as demais turmas permanecem nos ciclos A/B indicados. | Nota: Semana A iniciou em 31/08/2026. 4ºA e 5ºC são semanais; as demais turmas permanecem nos ciclos A/B indicados. | Nota: Semana A iniciou em 31/08/2026. 4ºA e 5ºC são semanais; as demais turmas permanecem nos ciclos A/B indicados. | Nota: Semana A iniciou em 31/08/2026. 4ºA e 5ºC são semanais; as demais turmas permanecem nos ciclos A/B indicados. | Nota: Semana A iniciou em 31/08/2026. 4ºA e 5ºC são semanais; as demais turmas permanecem nos ciclos A/B indicados. | Nota: Semana A iniciou em 31/08/2026. 4ºA e 5ºC são semanais; as demais turmas permanecem nos ciclos A/B indicados. | Nota: Semana A iniciou em 31/08/2026. 4ºA e 5ºC são semanais; as demais turmas permanecem nos ciclos A/B indicados. |
 |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |
@@ -79,13 +79,13 @@ Conversão integral da planilha original em `/data/horarios_aulas/grade_tecnolog
 | 3ºB | Alê | B | Confirmado |  |  |  |
 | 3ºC | Bruna | A | Confirmado |  |  |  |
 | 3ºD | Alê | B | Confirmado |  |  |  |
-| 4ºA | Carol | A | Confirmado |  |  |  |
+| 4ºA | Carol | Semanal | Confirmado |  |  |  |
 | 4ºB | Mari | B | Confirmado |  |  |  |
 | 4ºC | Carol | B | Confirmado |  |  |  |
 | 4ºD | Mari | B | Confirmado |  |  |  |
 | 5ºA | Ju | A | Confirmado |  |  |  |
 | 5ºB | Pati | A | Confirmado |  |  |  |
-| 5ºC | Ju | A | Confirmado |  |  |  |
+| 5ºC | Ju | Semanal | Confirmado |  |  |  |
 
 ## Resumo A-B
 
@@ -100,10 +100,10 @@ Conversão integral da planilha original em `/data/horarios_aulas/grade_tecnolog
 | 2ºB | 3ºA |  |  |  |  |  |
 | — | 3ºB / 3ºD | Ambas na Semana B |  |  |  |  |
 | 3ºC | 4ºB |  |  |  |  |  |
-| 4ºA | 4ºC |  |  |  |  |  |
+| — | 4ºC |  |  |  |  |  |
 | 5ºA | 4ºD |  |  |  |  |  |
 | 5ºB |  |  |  |  |  |  |
-| 5ºC |  |  |  |  |  |  |
+| 4ºA / 5ºC | — | Ambas semanais |  |  |  |  |
 |  |  |  |  |  |  |  |
 | Semana A = semana iniciada em 31/08/2026. Semana B = semana anterior. Classificação A/B completa para todas as turmas listadas. |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |
