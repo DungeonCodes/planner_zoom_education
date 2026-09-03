@@ -19,6 +19,18 @@
 | 2ºA | 17/09, 08:55–09:20 e 10:05–10:55 | Mesa giratória | Máquina de jogar futebol | p. 96 | pp. 5–16 |
 | 4ºA | 17/09, 10:55–11:45 | Trena digital e Balança | Hodômetro (continuação) | p. 106 | p. 85 |
 
+## Quantitativo de alunos e cópias
+
+| Turma | Alunos | Cópias avulsas para preparar |
+| --- | ---: | --- |
+| 2ºB | 11 | a especificar no material da aula |
+| 5ºC | 18 | a especificar no material da aula |
+| 2ºD | 16 | a especificar no material da aula |
+| 5ºB | 21 | a especificar no material da aula |
+| 2ºA | 17 | a especificar no material da aula |
+| 4ºA | 23 | a especificar no material da aula |
+| **Total** | **106** | confirmar fichas avulsas por atividade |
+
 ## Planos de aula
 
 ### 2ºB — 16/09 — 07:15–08:55

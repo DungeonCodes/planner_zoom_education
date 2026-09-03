@@ -11,6 +11,18 @@
 | 2ºA | 01/10, 08:55–09:20 e 10:05–10:55 | Máquina de jogar futebol | Máquina de desenhar | p. 106 | pp. 17–24 |
 | 4ºA | 01/10, 10:55–11:45 | Desafio de Instrumentos de Medida | Máquina GBC | p. 122 | p. 97 |
 
+## Quantitativo de alunos e cópias
+
+| Turma | Alunos | Cópias avulsas para preparar |
+| --- | ---: | --- |
+| 2ºB | 11 | a especificar no material da aula |
+| 5ºC | 18 | a especificar no material da aula |
+| 2ºD | 16 | a especificar no material da aula |
+| 5ºB | 21 | a especificar no material da aula |
+| 2ºA | 17 | a especificar no material da aula |
+| 4ºA | 23 | a especificar no material da aula |
+| **Total** | **106** | confirmar fichas avulsas por atividade |
+
 ## Roteiros compartilhados
 
 ### 2º ano — Máquina de desenhar

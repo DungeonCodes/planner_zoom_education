@@ -1,10 +1,5 @@
-# Dados de entrada e dados sensíveis
-/data/*
-!/data/.gitkeep
-!/data/README.md
-
-# Acervo bruto da Zoom Education (pode conter muitos arquivos grandes)
-/data/zoom_education/fundamental_1/pdfs_originais/
+# Acervo de PDFs originais da Zoom Education (arquivos grandes)
+/data/zoom_education/pdfs_originais/
 
 # Arquivos gerados
 /outputs/*

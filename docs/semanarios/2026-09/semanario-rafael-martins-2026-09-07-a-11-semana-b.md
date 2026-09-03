@@ -18,6 +18,16 @@
 | 2ºC | 10/09, 15:45–17:25 | Mesa giratória | Máquina de jogar futebol | p. 96 | pp. 5–16 |
 | 3ºA | 11/09, 07:15–08:55 | O que é cor? | Cores na natureza e Cores na arte | pp. 108 e 126 | pp. 83 e 99 |
 
+## Quantitativo de alunos e cópias
+
+| Turma | Alunos | Cópias avulsas para preparar |
+| --- | ---: | --- |
+| 3ºD | 15 | Ficha do camaleão: **15** |
+| 4ºC | 19 | a especificar no material da aula |
+| 2ºC | 11 | a especificar no material da aula |
+| 3ºA | 18 | Ficha do camaleão: **18** |
+| **Total** | **63** | **33 cópias da ficha do camaleão** |
+
 ## Planos de aula
 
 ### 3ºD — 08/09 — 12:55–14:35

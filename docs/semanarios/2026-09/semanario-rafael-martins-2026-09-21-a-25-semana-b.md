@@ -10,6 +10,17 @@
 | 2ºC | 24/09, 15:45–17:25 | Máquina de jogar futebol | Máquina de desenhar | p. 106 | pp. 17–24 |
 | 3ºA | 25/09, 07:15–08:55 | Cores na natureza e Cores na arte | Desafio de Cores + Robô batedor de asas | pp. 140 e 164 | pp. 111 e 131 |
 
+## Quantitativo de alunos e cópias
+
+| Turma | Alunos | Cópias avulsas para preparar |
+| --- | ---: | --- |
+| 1ºC | 14 | a especificar no material da aula |
+| 3ºD | 15 | a especificar no material da aula |
+| 4ºC | 19 | a especificar no material da aula |
+| 2ºC | 11 | a especificar no material da aula |
+| 3ºA | 18 | a especificar no material da aula |
+| **Total** | **77** | confirmar fichas avulsas por atividade |
+
 ## Roteiros compartilhados
 
 ### 1º ano — Carros malucos + Desfile

@@ -11,6 +11,18 @@
 | 1ºA | 24/09, 08:55–09:20 e 10:05–10:55 | Arraiá de robôs + Caça ao tesouro | Carros malucos + Desfile de carros malucos | pp. 112 e 118 | pp. 23–36 |
 | 4ºA | 24/09, 10:55–11:45 | Hodômetro | Desafio de Instrumentos de Medida | p. 116 | a confirmar |
 
+## Quantitativo de alunos e cópias
+
+| Turma | Alunos | Cópias avulsas para preparar |
+| --- | ---: | --- |
+| 4ºB | 20 | a especificar no material da aula |
+| 5ºC | 18 | a especificar no material da aula |
+| 4ºD | 13 | a especificar no material da aula |
+| 3ºB | 15 | a especificar no material da aula |
+| 1ºA | 16 | a especificar no material da aula |
+| 4ºA | 23 | a especificar no material da aula |
+| **Total** | **105** | confirmar fichas avulsas por atividade |
+
 ## Roteiros compartilhados
 
 ### 1º ano — Carros malucos + Desfile

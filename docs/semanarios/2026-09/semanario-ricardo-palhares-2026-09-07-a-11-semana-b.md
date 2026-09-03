@@ -20,6 +20,18 @@
 | 4ºA | 10/09, 10:55–11:45 | Trena digital e Balança | Hodômetro | p. 106 | p. 85 |
 | 4ºD | 09/09, 15:45–17:25 | Trena digital e Balança | Hodômetro | p. 106 | p. 85 |
 
+## Quantitativo de alunos e cópias
+
+| Turma | Alunos | Cópias avulsas para preparar |
+| --- | ---: | --- |
+| 4ºB | 20 | a especificar no material da aula |
+| 5ºC | 18 | a especificar no material da aula |
+| 3ºB | 15 | Ficha do camaleão: **15** |
+| 1ºA | 16 | a especificar no material da aula |
+| 4ºA | 23 | a especificar no material da aula |
+| 4ºD | 13 | a especificar no material da aula |
+| **Total** | **105** | **15 cópias da ficha do camaleão** |
+
 ## Planos de aula
 
 ### 4ºB — 09/09 — 07:15–08:55

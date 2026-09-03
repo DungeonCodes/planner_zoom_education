@@ -16,6 +16,15 @@
 | 1ºB | 15/09, 15:45–17:25 | Avião/Foguete | Arraiá de robôs + Caça ao tesouro | pp. 96 e 106 | pp. 5–22 |
 | 5ºA | 18/09, 07:15–08:55 | Sistema digestório | Sistema respiratório | p. 222 | p. 185 |
 
+## Quantitativo de alunos e cópias
+
+| Turma | Alunos | Cópias avulsas para preparar |
+| --- | ---: | --- |
+| 3ºC | 15 | Ficha do camaleão: **15** |
+| 1ºB | 15 | a especificar no material da aula |
+| 5ºA | 22 | a especificar no material da aula |
+| **Total** | **52** | **15 cópias da ficha do camaleão** |
+
 ## Planos de aula
 
 ### 3ºC — 15/09 — 12:55–14:35

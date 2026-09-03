@@ -8,6 +8,15 @@
 | 1ºB | 29/09, 15:45–17:25 | Arraiá de robôs + Caça ao tesouro | Carros malucos + Desfile de carros malucos | pp. 112 e 118 | pp. 23–36 |
 | 5ºA | 02/10, 07:15–08:55 | Sistema respiratório | Desafio de Bem-estar | p. 234 | p. 195 |
 
+## Quantitativo de alunos e cópias
+
+| Turma | Alunos | Cópias avulsas para preparar |
+| --- | ---: | --- |
+| 3ºC | 15 | a especificar no material da aula |
+| 1ºB | 15 | a especificar no material da aula |
+| 5ºA | 22 | a especificar no material da aula |
+| **Total** | **52** | confirmar fichas avulsas por atividade |
+
 ## Roteiros compartilhados
 
 ### 1º ano — Carros malucos + Desfile
