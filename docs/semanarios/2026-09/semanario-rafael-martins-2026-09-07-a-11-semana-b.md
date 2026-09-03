@@ -48,7 +48,7 @@
 ### 4ºC — 10/09 — 12:55–14:35
 
 - Objetivo: construir e testar um modelo de hodômetro, relacionando movimento, volta completa e medição de distância.
-- Materiais: apostila, peças de montagem, fita adesiva, fita métrica ou trena, superfície para teste.
+- Materiais: apostila, peças de montagem, fita adesiva, fita métrica ou trena, **rolo de papel kraft** e superfície para teste.
 
 | Etapa | Tempo | Condução |
 | --- | ---: | --- |

@@ -37,7 +37,7 @@
 ### 4ºB — 09/09 — 07:15–08:55
 
 - Objetivo: construir e testar um hodômetro, identificando a relação entre movimento e distância.
-- Materiais: apostila, peças de montagem, fita adesiva, fita métrica ou trena.
+- Materiais: apostila, peças de montagem, fita adesiva, fita métrica ou trena e **rolo de papel kraft**.
 - Diagnóstico: retomar em até 10 minutos Trena digital e Balança.
 
 | Etapa | Tempo | Condução |
@@ -89,6 +89,7 @@
 
 - Objetivo: iniciar a mesma experiência oficial do 4º ano, o Hodômetro.
 - Referências: professor p. 106; aluno p. 85.
+- Materiais: apostila, peças de montagem, fita adesiva, fita métrica ou trena e **rolo de papel kraft**.
 
 | Etapa | Tempo | Condução |
 | --- | ---: | --- |
@@ -100,7 +101,7 @@
 
 - Objetivo: realizar a mesma experiência oficial do 4º ano, construindo e testando um Hodômetro.
 - Referências: professor p. 106; aluno p. 85.
-- Materiais: apostila, peças de montagem, fita adesiva, fita métrica ou trena e superfície para teste.
+- Materiais: apostila, peças de montagem, fita adesiva, fita métrica ou trena, **rolo de papel kraft** e superfície para teste.
 
 | Etapa | Tempo | Condução |
 | --- | ---: | --- |

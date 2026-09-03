@@ -86,7 +86,7 @@
 
 - Objetivo: continuar a experiência oficial do 4º ano, testando e registrando o Hodômetro.
 - Referências: professor p. 106; aluno p. 85.
-- Materiais: apostila, modelo ou imagens de hodômetro, fita métrica/trena.
+- Materiais: apostila, modelo ou imagens de hodômetro, fita métrica/trena e **rolo de papel kraft**.
 
 | Etapa | Tempo | Condução |
 | --- | ---: | --- |

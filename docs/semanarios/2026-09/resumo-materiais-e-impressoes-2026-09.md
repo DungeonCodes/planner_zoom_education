@@ -4,6 +4,16 @@
 
 Preparar materiais por **atividade e série**, não apenas pela turma que terá aula primeiro. Quando a mesma atividade atender outras turmas da série nas semanas seguintes, a impressão deve cobrir todas elas de uma vez.
 
+## Tempo reservado para o preparo
+
+| Componente | Previsão semanal |
+| --- | ---: |
+| Preparar uma aula única de cada série (1º ao 5º) | 5 h |
+| Margem para montagem/teste de robôs, impressão e ajustes | 1 h |
+| **Reserva recomendada** | **6 h** |
+
+O cálculo considera o preparo compartilhado entre Rafael e Ricardo. A estimativa acumulada até 15/12 é de 72 horas; detalhes em [`docs/simulacoes/preparo-de-aulas-set-dez-2026.md`](../../simulacoes/preparo-de-aulas-set-dez-2026.md).
+
 ## Impressão antecipada consolidada
 
 | Atividade | Material a imprimir | Critério | Turmas atendidas | Quantidade |
@@ -32,7 +42,7 @@ Preparar materiais por **atividade e série**, não apenas pela turma que terá 
 | 1º — Arraiá de robôs + Caça ao tesouro | 1ºA: 16 | Caderno 2, Matata, tapete/palco, cenário e cartões de comandos | Verificar ficha avulsa no material |
 | 2º — Máquina de jogar futebol | 2ºC: 11 | Caderno 2, Matata, tapete/palco e cartões de programação | Verificar ficha avulsa no material |
 | 3º — Cores na natureza e Cores na arte | 3ºA: 18; 3ºB: 15; 3ºD: 15 | Apostila, unidade Cores no Mundo, cartões/imagens de cores | **63 fichas do camaleão para todos os 3º anos** |
-| 4º — Hodômetro | 4ºA: 23; 4ºB: 20; 4ºC: 19; 4ºD: 13 | Apostila, kits de montagem, fita adesiva, trena/fita métrica e pista de teste | Verificar ficha avulsa no material |
+| 4º — Hodômetro | 4ºA: 23; 4ºB: 20; 4ºC: 19; 4ºD: 13 | Apostila, kits de montagem, fita adesiva, trena/fita métrica, **rolo de papel kraft** e pista de teste | Verificar ficha avulsa no material |
 | 5º — Preparação para Sistema respiratório | 5ºC: 18 | Apostila e registros de Sistema digestório | Verificar ficha avulsa no material |
 
 ### 14 a 18/09 — Semana A
@@ -42,7 +52,7 @@ Preparar materiais por **atividade e série**, não apenas pela turma que terá 
 | 1º — Arraiá de robôs + Caça ao tesouro | 1ºB: 15 | Caderno 2, Matata, tapete/palco, cenário e cartões de comandos | Verificar ficha avulsa no material |
 | 2º — Máquina de jogar futebol | 2ºA: 17; 2ºB: 11; 2ºD: 16 | Caderno 2, Matata, tapete/palco e cartões de programação | Verificar ficha avulsa no material |
 | 3º — Cores na natureza e Cores na arte | 3ºC: 15 | Apostila, unidade Cores no Mundo, cartões/imagens de cores | Usar as **15 fichas do camaleão** já separadas da tiragem de 63 |
-| 4º — Hodômetro (continuação) | 4ºA: 23 | Apostila, Hodômetro iniciado, trena/fita métrica e pista de teste | Verificar ficha avulsa no material |
+| 4º — Hodômetro (continuação) | 4ºA: 23 | Apostila, Hodômetro iniciado, trena/fita métrica, **rolo de papel kraft** e pista de teste | Verificar ficha avulsa no material |
 | 5º — Sistema respiratório | 5ºA: 22; 5ºB: 21; 5ºC: 18 | Apostila, kits/peças da montagem e itens de teste | Verificar ficha avulsa no material |
 
 ### 21 a 25/09 — Semana B
