@@ -29,7 +29,7 @@ Foram descontados os feriados nacionais que atingem a grade: 07/09, 02/11 e 20/1
 
 ## Marco comum de entrada por série
 
-| Série | Marco de entrada adotado | Turmas com avanço registrado nesse marco | Atenção para equalização |
+| Série | Marco de entrada adotado | Turmas com avanço registrado nesse marco | Evidência histórica, não ponto de partida |
 | --- | --- | --- | --- |
 | 1º | Avião/Foguete | 1ºC | 1ºA e 1ºB sem semanário disponível. |
 | 2º | Mesa giratória | 2ºB e 2ºC | 2ºD aparece anteriormente em Máquina de ondular papel; 2ºA sem registro. |

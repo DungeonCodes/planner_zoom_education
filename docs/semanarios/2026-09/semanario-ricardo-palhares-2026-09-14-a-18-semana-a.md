@@ -1,5 +1,7 @@
 # Semanário — Ricardo Palhares — 14 a 18/09/2026 — Semana A
 
+<!-- Organização mensal: setembro de 2026. -->
+
 ## Identificação
 
 - Ciclo: Semana A.
@@ -11,11 +13,11 @@
 | Turma | Data / horário | Conteúdo de partida | Atividade principal | Professor | Aluno |
 | --- | --- | --- | --- | --- | --- |
 | 2ºB | 16/09, 07:15–08:55 | Mesa giratória | Máquina de jogar futebol | p. 96 | pp. 5–16 |
-| 5ºC | 16/09, 14:35–15:45 | Seguidor de linhas (registro antigo; diagnóstico) | Sistema respiratório | p. 222 | p. 185 |
-| 2ºD | 16/09, 15:45–17:25 | Máquina de ondular papel (registro antigo; diagnóstico) | Máquina de jogar futebol | p. 96 | pp. 5–16 |
+| 5ºC | 16/09, 14:35–15:45 | Sistema digestório | Sistema respiratório | p. 222 | p. 185 |
+| 2ºD | 16/09, 15:45–17:25 | Mesa giratória | Máquina de jogar futebol | p. 96 | pp. 5–16 |
 | 5ºB | 17/09, 07:15–08:55 | Sistema digestório | Sistema respiratório | p. 222 | p. 185 |
-| 2ºA | 17/09, 08:55–09:20 e 10:05–10:55 | Marco a confirmar | Máquina de jogar futebol | p. 96 | pp. 5–16 |
-| 4ºA | 17/09, 10:55–11:45 | Marco a confirmar | Diagnóstico e introdução ao Hodômetro | p. 106 | p. 85 |
+| 2ºA | 17/09, 08:55–09:20 e 10:05–10:55 | Mesa giratória | Máquina de jogar futebol | p. 96 | pp. 5–16 |
+| 4ºA | 17/09, 10:55–11:45 | Trena digital e Balança | Hodômetro (continuação) | p. 106 | p. 85 |
 
 ## Planos de aula
 
@@ -39,7 +41,7 @@
 
 | Etapa | Tempo | Condução |
 | --- | ---: | --- |
-| Diagnóstico | 10 min | Conferir caderno e páginas realizadas desde Seguidor de linhas. |
+| Diagnóstico | 10 min | Retomar os conceitos essenciais de Sistema digestório. |
 | Construir e testar | 45 min | Realizar Sistema respiratório, observando inspiração, expiração e troca de gases. |
 | Registro | 15 min | Explicar uma relação observada no modelo. |
 
@@ -51,7 +53,7 @@
 
 | Etapa | Tempo | Condução |
 | --- | ---: | --- |
-| Diagnóstico | 15 min | Conferir o registro de Máquina de ondular papel e o domínio de comandos essenciais. |
+| Diagnóstico | 15 min | Retomar Mesa giratória e o domínio de comandos essenciais. |
 | Programar | 35 min | Realizar Máquina de jogar futebol. |
 | Testar | 40 min | Criar, testar e corrigir sequências de comandos para cumprir o objetivo do jogo. |
 | Registro | 10 min | Explicar qual comando precisou de ajuste e por quê. |
@@ -64,21 +66,21 @@
 
 ### 2ºA — 17/09 — 08:55–09:20 e 10:05–10:55
 
-- Objetivo: iniciar programação do Matata em situação de jogo, após diagnóstico breve do marco da turma.
+- Objetivo: programar o Matata em situação de jogo, com retomada breve de Mesa giratória.
 - Referências: Máquina de jogar futebol — professor p. 96; aluno pp. 5–16.
 - Experiência principal: programar e ajustar a Máquina de jogar futebol.
 
 ### 4ºA — 17/09 — 10:55–11:45
 
-- Objetivo: verificar o marco da turma e apresentar o desafio de medir percursos com um hodômetro.
+- Objetivo: continuar a experiência oficial do 4º ano, testando e registrando o Hodômetro.
 - Referências: professor p. 106; aluno p. 85.
 - Materiais: apostila, modelo ou imagens de hodômetro, fita métrica/trena.
 
 | Etapa | Tempo | Condução |
 | --- | ---: | --- |
-| Diagnóstico | 15 min | Conferir se Trena digital e Balança foram realizadas. |
-| Investigar | 20 min | Comparar hodômetro, trena e outros instrumentos de medida. |
-| Preparar | 15 min | Organizar material e antecipar a montagem do próximo bloco, se confirmado. |
+| Retomada | 10 min | Relembrar a montagem iniciada e o que o Hodômetro mede. |
+| Testar | 25 min | Medir um percurso e comparar voltas, marcações e distância real. |
+| Registro | 15 min | Explicar como o mecanismo transforma movimento em medida. |
 
 ## Decisões necessárias antes de 17/09
 

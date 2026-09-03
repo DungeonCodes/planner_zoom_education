@@ -1,5 +1,7 @@
 # Semanário — Ricardo Palhares — 07 a 11/09/2026 — Semana B
 
+<!-- Organização mensal: setembro de 2026. -->
+
 ## Identificação
 
 - Ciclo: Semana B.
@@ -11,12 +13,12 @@
 
 | Turma | Data / horário | Conteúdo de partida | Atividade principal | Professor | Aluno |
 | --- | --- | --- | --- | --- | --- |
-| 4ºB | 09/09, 07:15–08:55 | Balança; Trena a confirmar | Hodômetro | p. 106 | p. 85 |
-| 5ºC | 09/09, 14:35–15:45 | Seguidor de linhas (registro antigo) | Diagnóstico + preparação para Sistema respiratório | p. 222 | p. 185 |
-| 3ºB | 10/09, 07:15–08:55 | Processo de automação (registro antigo; diagnóstico) | Cores na natureza e Cores na arte | pp. 108 e 126 | pp. 83 e 99 |
-| 1ºA | 10/09, 08:55–09:20 e 10:05–10:55 | Marco a confirmar | Arraiá de robôs + Caça ao tesouro | pp. 96 e 106 | pp. 5–22 |
-| 4ºA | 10/09, 10:55–11:45 | Marco a confirmar | Hodômetro | p. 106 | p. 85 |
-| 4ºD | 09/09, 15:45–17:25 | Futebol/Basquete (registro antigo; diagnóstico) | Hodômetro | p. 106 | p. 85 |
+| 4ºB | 09/09, 07:15–08:55 | Trena digital e Balança | Hodômetro | p. 106 | p. 85 |
+| 5ºC | 09/09, 14:35–15:45 | Sistema digestório | Diagnóstico + preparação para Sistema respiratório | p. 222 | p. 185 |
+| 3ºB | 10/09, 07:15–08:55 | O que é cor? | Cores na natureza e Cores na arte | pp. 108 e 126 | pp. 83 e 99 |
+| 1ºA | 10/09, 08:55–09:20 e 10:05–10:55 | Avião/Foguete | Arraiá de robôs + Caça ao tesouro | pp. 96 e 106 | pp. 5–22 |
+| 4ºA | 10/09, 10:55–11:45 | Trena digital e Balança | Hodômetro | p. 106 | p. 85 |
+| 4ºD | 09/09, 15:45–17:25 | Trena digital e Balança | Hodômetro | p. 106 | p. 85 |
 
 ## Planos de aula
 
@@ -24,7 +26,7 @@
 
 - Objetivo: construir e testar um hodômetro, identificando a relação entre movimento e distância.
 - Materiais: apostila, peças de montagem, fita adesiva, fita métrica ou trena.
-- Diagnóstico: confirmar em até 10 minutos se a turma realizou Trena digital antes da Balança.
+- Diagnóstico: retomar em até 10 minutos Trena digital e Balança.
 
 | Etapa | Tempo | Condução |
 | --- | ---: | --- |
@@ -38,7 +40,7 @@
 - Objetivo: criar sequências de comandos do Matata em uma narrativa de robótica.
 - Referências: Arraiá de robôs — professor p. 96, aluno pp. 5–14; Caça ao tesouro e operação salvamento — professor p. 106, aluno pp. 15–22.
 - Materiais: Caderno 2, Matata, palco da imaginação ou tapete, elementos de cenário.
-- Diagnóstico: confirmar Avião/Foguete e a familiaridade da turma com comandos do robô.
+- Diagnóstico: retomar Avião/Foguete e a familiaridade com comandos do robô.
 
 | Etapa | Tempo | Condução |
 | --- | ---: | --- |
@@ -54,7 +56,7 @@
 
 | Etapa | Tempo | Condução |
 | --- | ---: | --- |
-| Diagnóstico | 15 min | Conferir caderno e registrar a última montagem efetivamente concluída. |
+| Diagnóstico | 15 min | Retomar Sistema digestório e registrar conhecimentos essenciais para a próxima aula. |
 | Preparar | 40 min | Relacionar digestão, respiração e troca de gases por observação guiada do material. |
 | Registro | 15 min | Formular uma hipótese sobre inspiração e expiração para retomar na aula comum. |
 
@@ -66,7 +68,7 @@
 
 | Etapa | Tempo | Condução |
 | --- | ---: | --- |
-| Diagnóstico | 10 min | Retomar o registro de Processo de automação e verificar os conhecimentos essenciais para acompanhar a aula comum. |
+| Diagnóstico | 10 min | Retomar os conceitos essenciais de “O que é cor?” para acompanhar a aula comum. |
 | Investigar | 35 min | Realizar Cores na natureza com observação guiada e levantamento de hipóteses. |
 | Criar | 40 min | Realizar Cores na arte, usando cores de modo intencional na produção. |
 | Registro | 15 min | Explicar a escolha de cores e registrar a evidência para o próximo encontro compartilhado do 3º ano. |
@@ -78,7 +80,7 @@
 
 | Etapa | Tempo | Condução |
 | --- | ---: | --- |
-| Diagnóstico | 10 min | Conferir o ponto de partida sem trocar a aula principal. |
+| Diagnóstico | 10 min | Retomar Trena digital e Balança sem trocar a aula principal. |
 | Construir | 30 min | Iniciar a montagem do Hodômetro. |
 | Registrar | 10 min | Registrar o que o mecanismo mede; a continuação ocorre no próximo encontro semanal. |
 
@@ -90,7 +92,7 @@
 
 | Etapa | Tempo | Condução |
 | --- | ---: | --- |
-| Diagnóstico | 10 min | Retomar o registro de Futebol/Basquete e verificar os conhecimentos essenciais para acompanhar a aula comum. |
+| Diagnóstico | 10 min | Retomar Trena digital e Balança para acompanhar a aula comum. |
 | Construir | 40 min | Montagem do Hodômetro. |
 | Testar | 35 min | Medir um percurso; comparar voltas, marcações e distância real. |
 | Registrar | 15 min | Explicar como o mecanismo transforma movimento em medida. |

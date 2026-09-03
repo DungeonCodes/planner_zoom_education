@@ -1,5 +1,7 @@
 # Semanário — Rafael Martins — 07 a 11/09/2026 — Semana B
 
+<!-- Organização mensal: setembro de 2026. -->
+
 ## Identificação
 
 - Ciclo: Semana B.

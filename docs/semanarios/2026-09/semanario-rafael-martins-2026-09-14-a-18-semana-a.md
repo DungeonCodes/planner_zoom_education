@@ -1,5 +1,7 @@
 # Semanário — Rafael Martins — 14 a 18/09/2026 — Semana A
 
+<!-- Organização mensal: setembro de 2026. -->
+
 ## Identificação
 
 - Ciclo: Semana A.
@@ -10,9 +12,9 @@
 
 | Turma | Data / horário | Conteúdo de partida | Atividade principal | Professor | Aluno |
 | --- | --- | --- | --- | --- | --- |
-| 3ºC | 15/09, 12:55–14:35 | Marco a confirmar | Cores na natureza e Cores na arte | pp. 108 e 126 | pp. 83 e 99 |
-| 1ºB | 15/09, 15:45–17:25 | Marco a confirmar | Arraiá de robôs + Caça ao tesouro | pp. 96 e 106 | pp. 5–22 |
-| 5ºA | 18/09, 07:15–08:55 | Marco a confirmar | Sistema respiratório | p. 222 | p. 185 |
+| 3ºC | 15/09, 12:55–14:35 | O que é cor? | Cores na natureza e Cores na arte | pp. 108 e 126 | pp. 83 e 99 |
+| 1ºB | 15/09, 15:45–17:25 | Avião/Foguete | Arraiá de robôs + Caça ao tesouro | pp. 96 e 106 | pp. 5–22 |
+| 5ºA | 18/09, 07:15–08:55 | Sistema digestório | Sistema respiratório | p. 222 | p. 185 |
 
 ## Planos de aula
 
@@ -20,7 +22,7 @@
 
 - Objetivo: reconhecer a presença e o uso intencional das cores na natureza e na arte.
 - Materiais: apostila, material de montagem da unidade, imagens de referência e materiais de registro.
-- Diagnóstico: verificar se a turma concluiu “O que é cor?”.
+- Diagnóstico: retomar os conceitos essenciais de “O que é cor?”.
 
 | Etapa | Tempo | Condução |
 | --- | ---: | --- |
@@ -33,7 +35,7 @@
 
 - Objetivo: programar o Matata em uma narrativa, criando e corrigindo uma sequência de comandos.
 - Materiais: Caderno 2, Matata, palco da imaginação ou tapete, elementos de cenário.
-- Diagnóstico: verificar a conclusão de Avião/Foguete e a familiaridade com comandos do robô.
+- Diagnóstico: retomar Avião/Foguete e os comandos essenciais do robô.
 
 | Etapa | Tempo | Condução |
 | --- | ---: | --- |
@@ -46,7 +48,7 @@
 
 - Objetivo: construir, testar e explicar um modelo relacionado ao sistema respiratório, associando respiração e troca de gases.
 - Materiais: apostila, VinciBot ou material da atividade, peças de montagem e itens de teste previstos no manual.
-- Diagnóstico: confirmar se a turma já alcançou Sistema digestório. O último registro disponível é Braço robótico, por isso não presumir avanço.
+- Diagnóstico: retomar os conceitos essenciais de Sistema digestório.
 
 | Etapa | Tempo | Condução |
 | --- | ---: | --- |
