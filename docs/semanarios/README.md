@@ -9,3 +9,6 @@ Os semanários são organizados por mês no formato `AAAA-MM`. As pastas de 2026
 - **Estimativa de 07/09 a 15/12:** 72 horas de preparo compartilhado.
 
 Consulte a [simulação detalhada](../simulacoes/preparo-de-aulas-set-dez-2026.md).
+## Resumo do Encontro
+
+Cada plano de aula deve conter o bloco **Resumo do Encontro**, com uma mensagem de rotina pronta para as famílias, explicando a atividade, a participação da turma e as aprendizagens mobilizadas. Revise apenas se houver mudança no que foi realizado.

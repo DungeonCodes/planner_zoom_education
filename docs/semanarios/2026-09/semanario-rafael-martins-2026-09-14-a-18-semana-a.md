@@ -39,6 +39,9 @@
 | Investigar | 25 min | Cores na natureza. |
 | Criar | 45 min | Cores na arte como experiência principal. |
 | Compartilhar | 15 min | Apresentar a escolha de cores da equipe. |
+#### Resumo do Encontro
+
+> **Mensagem de rotina para as famílias:** Hoje a turma explorou as cores presentes na natureza e na arte. As crianças observaram referências, conversaram sobre combinações e contrastes e fizeram escolhas de cor em suas criações. Ao compartilhar as produções, puderam explicar suas ideias e valorizar diferentes formas de olhar para o mundo.
 
 ### 1ºB — 15/09 — 15:45–17:25
 
@@ -52,6 +55,9 @@
 | Programação guiada | 30 min | Arraiá de robôs (professor p. 96; aluno pp. 5–14). |
 | Desafio principal | 45 min | Caça ao tesouro e operação salvamento (professor p. 106; aluno pp. 15–22). |
 | Registro | 15 min | Desenhar ou escrever a sequência que levou o robô ao objetivo. |
+#### Resumo do Encontro
+
+> **Mensagem de rotina para as famílias:** Hoje a turma programou o Matata em uma narrativa de robótica. As crianças imaginaram a história, organizaram uma sequência de comandos, testaram o percurso do robô e corrigiram o que foi necessário para a narrativa acontecer. A proposta desenvolveu pensamento computacional, criatividade e colaboração.
 
 ### 5ºA — 18/09 — 07:15–08:55
 
@@ -67,3 +73,6 @@
 | Fechar | 15 min | Registrar hipótese sobre inspiração e expiração. |
 
 - Adaptação: se a turma estiver mais de uma unidade antes do marco, registrar a defasagem e organizar recuperação dirigida adicional; preservar Sistema respiratório como a aula oficial compartilhada da semana.
+#### Resumo do Encontro
+
+> **Mensagem de rotina para as famílias:** Hoje a turma construiu e testou um modelo do sistema respiratório. Ao observar o funcionamento da montagem, as crianças relacionaram inspiração, expiração e troca de gases ao que acontece em nosso corpo. A investigação tornou o conteúdo de Ciências mais concreto e estimulou perguntas e explicações da turma.

@@ -44,6 +44,9 @@
 | Compartilhar | 20 min | Cada equipe apresenta a criação e explica uma escolha de cor. |
 
 - Adaptação: se a turma não tiver concluído “O que é cor?”, realizar uma retomada guiada e preservar Cores na arte como atividade principal.
+#### Resumo do Encontro
+
+> **Mensagem de rotina para as famílias:** Hoje a turma explorou as cores presentes na natureza e na arte. As crianças observaram referências, conversaram sobre combinações e contrastes e fizeram escolhas de cor em suas criações. Ao compartilhar as produções, puderam explicar suas ideias e valorizar diferentes formas de olhar para o mundo.
 
 ### 4ºC — 10/09 — 12:55–14:35
 
@@ -56,6 +59,9 @@
 | Construir | 40 min | Montagem do hodômetro conforme professor p. 106 e aluno p. 85. |
 | Testar | 35 min | Medir um percurso; comparar voltas, marcações e distância real. |
 | Registrar | 15 min | Explicar em poucas linhas como o mecanismo transforma movimento em medida. |
+#### Resumo do Encontro
+
+> **Mensagem de rotina para as famílias:** Hoje a turma participou de desafios de medição, escolhendo instrumentos adequados para cada situação. As crianças compararam resultados, testaram estratégias e explicaram aos colegas por que cada escolha fazia sentido. A proposta fortaleceu a observação, o raciocínio matemático e a comunicação das descobertas.
 
 ### 2ºC — 10/09 — 15:45–17:25
 
@@ -68,10 +74,16 @@
 | Programar | 35 min | Realizar a Máquina de jogar futebol (professor p. 96; aluno pp. 5–16). |
 | Desafio | 40 min | Equipes criam e testam uma sequência para atingir o objetivo do jogo. |
 | Fechamento | 15 min | Compartilhar estratégias, erros de programação e ajustes feitos. |
+#### Resumo do Encontro
+
+> **Mensagem de rotina para as famílias:** Hoje a turma programou o Matata para participar de um desafio de futebol. As crianças pensaram nos movimentos necessários, criaram trajetos, testaram os comandos e ajustaram as sequências para alcançar o objetivo do jogo. A atividade estimulou planejamento, raciocínio lógico e cooperação entre os colegas.
 
 ### 3ºA — 11/09 — 07:15–08:55
 
 Aplicar o mesmo roteiro do 3ºD, preservando **Cores na arte** como a experiência principal. Registrar diferenças de ritmo ou de retomada para não presumir equivalência entre as turmas.
+#### Resumo do Encontro
+
+> **Mensagem de rotina para as famílias:** Hoje a turma explorou as cores presentes na natureza e na arte. As crianças observaram referências, conversaram sobre combinações e contrastes e fizeram escolhas de cor em suas criações. Ao compartilhar as produções, puderam explicar suas ideias e valorizar diferentes formas de olhar para o mundo.
 
 ## Registro pós-aula
 

@@ -34,6 +34,9 @@
 | Construir | 35 min | Realizar Carros malucos. |
 | Criar e testar | 35 min | Preparar o Desfile de carros malucos e testar os trajetos. |
 | Apresentar | 20 min | Cada equipe apresenta o carro e explica um ajuste realizado. |
+#### Resumo do Encontro
+
+> **Mensagem de rotina para as famílias:** Hoje a turma criou e programou um carro maluco para percorrer uma pista elaborada coletivamente. As crianças planejaram trajetos, organizaram os comandos, testaram as sequências e ajustaram a programação até que o carro cumprisse o desafio. No desfile final, puderam apresentar suas soluções e celebrar as descobertas da turma.
 
 ### 2º ano — Máquina de desenhar
 
@@ -46,6 +49,9 @@
 | Programar | 35 min | Realizar Máquina de desenhar. |
 | Testar | 35 min | Criar um desenho, testar e corrigir a sequência. |
 | Registro | 20 min | Registrar o percurso e o comando que exigiu ajuste. |
+#### Resumo do Encontro
+
+> **Mensagem de rotina para as famílias:** Hoje a turma programou trajetos para criar desenhos com o Matata. As crianças imaginaram as formas, organizaram os comandos, observaram o resultado de cada tentativa e fizeram correções para aperfeiçoar a produção. A proposta trabalhou programação, orientação espacial e expressão criativa.
 
 ### 3º ano — Desafio de Cores + Robô batedor de asas
 
@@ -58,6 +64,9 @@
 | Desafio | 25 min | Realizar o Momento do desafio de Cores. |
 | Construir | 45 min | Montar e testar o Robô batedor de asas. |
 | Registro | 20 min | Explicar como o mecanismo produz o movimento. |
+#### Resumo do Encontro
+
+> **Mensagem de rotina para as famílias:** Hoje a turma retomou os estudos sobre cores e construiu o Robô batedor de asas. Durante a montagem, as crianças observaram como as peças formam um mecanismo, testaram o movimento das asas e fizeram ajustes quando necessário. A atividade uniu investigação, criatividade e trabalho em equipe.
 
 ### 4º ano — Desafio de Instrumentos de Medida
 
@@ -70,3 +79,6 @@
 | Desafio | 50 min | Resolver desafios de medida em equipes, usando Hodômetro e trena. |
 | Comparar | 25 min | Comparar estratégias e resultados. |
 | Registro | 15 min | Registrar qual instrumento foi mais adequado e por quê. |
+#### Resumo do Encontro
+
+> **Mensagem de rotina para as famílias:** Hoje a turma participou de desafios de medição, escolhendo instrumentos adequados para cada situação. As crianças compararam resultados, testaram estratégias e explicaram aos colegas por que cada escolha fazia sentido. A proposta fortaleceu a observação, o raciocínio matemático e a comunicação das descobertas.

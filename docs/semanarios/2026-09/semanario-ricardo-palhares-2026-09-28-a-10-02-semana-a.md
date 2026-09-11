@@ -37,6 +37,9 @@
 | Programar | 35 min | Realizar Máquina de desenhar. |
 | Testar | 35 min | Criar um desenho, testar e corrigir a sequência. |
 | Registro | 20 min | Registrar o percurso e o comando que exigiu ajuste. |
+#### Resumo do Encontro
+
+> **Mensagem de rotina para as famílias:** Hoje a turma programou trajetos para criar desenhos com o Matata. As crianças imaginaram as formas, organizaram os comandos, observaram o resultado de cada tentativa e fizeram correções para aperfeiçoar a produção. A proposta trabalhou programação, orientação espacial e expressão criativa.
 
 ### 4º ano — Máquina GBC
 
@@ -44,6 +47,9 @@
 - Referências: professor p. 122; aluno p. 97.
 - Materiais: apostila, peças de montagem e objetos pequenos para teste.
 - Condução: retomada do desafio de medida; início da montagem; teste de um percurso; registro da função de uma peça. O encontro de 50 minutos do 4ºA inicia a mesma experiência do próximo ciclo B.
+#### Resumo do Encontro
+
+> **Mensagem de rotina para as famílias:** Hoje a turma iniciou a construção da Máquina GBC, um percurso que transporta pequenos objetos por meio de mecanismos. Em equipe, as crianças observaram as peças, levantaram hipóteses, testaram possibilidades de montagem e fizeram os primeiros ajustes. A atividade desenvolveu raciocínio lógico, criatividade e persistência diante dos desafios.
 
 ### 5º ano — Desafio de Bem-estar
 
@@ -57,3 +63,6 @@
 | Desafio | 50 min | Realizar o Momento do desafio de Bem-estar em equipes. |
 | Socializar | 25 min | Apresentar evidências e estratégias encontradas. |
 | Registro | 15 min | Registrar uma prática de bem-estar relacionada à respiração. |
+#### Resumo do Encontro
+
+> **Mensagem de rotina para as famílias:** Hoje a turma participou de um desafio de bem-estar a partir do que estudou sobre o sistema respiratório. As crianças analisaram situações do cotidiano, relacionaram respiração, movimento e cuidados com o corpo e compartilharam suas conclusões. Foi um momento de investigar como os conhecimentos científicos também ajudam nas escolhas do dia a dia.

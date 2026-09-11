@@ -31,6 +31,9 @@
 - Referências: professor pp. 112 e 118; aluno pp. 23–36.
 - Materiais: Caderno 2, Matata, tapete/pista, cenário e cartões de comandos.
 - Condução: retomada de comandos; Carros malucos; preparação e teste do Desfile; apresentação e registro do ajuste principal.
+#### Resumo do Encontro
+
+> **Mensagem de rotina para as famílias:** Hoje a turma criou e programou um carro maluco para percorrer uma pista elaborada coletivamente. As crianças planejaram trajetos, organizaram os comandos, testaram as sequências e ajustaram a programação até que o carro cumprisse o desafio. No desfile final, puderam apresentar suas soluções e celebrar as descobertas da turma.
 
 ### 3º ano — Desafio de Cores + Robô batedor de asas
 
@@ -38,6 +41,9 @@
 - Referências: professor pp. 140 e 164; aluno pp. 111 e 131.
 - Materiais: apostila, VinciBot, peças do Robô batedor de asas e cartões de desafio.
 - Condução: retomada de cores; desafio; montagem e teste do robô; registro de como o movimento é produzido.
+#### Resumo do Encontro
+
+> **Mensagem de rotina para as famílias:** Hoje a turma retomou os estudos sobre cores e construiu o Robô batedor de asas. Durante a montagem, as crianças observaram como as peças formam um mecanismo, testaram o movimento das asas e fizeram ajustes quando necessário. A atividade uniu investigação, criatividade e trabalho em equipe.
 
 ### 4º ano — Desafio de Instrumentos de Medida
 
@@ -45,6 +51,9 @@
 - Referência: professor p. 116; aluno a confirmar na edição da turma.
 - Materiais: apostila, Hodômetro, trena/fita métrica, objetos e cartões de desafio.
 - Condução: retomada do Hodômetro; desafios em equipe; comparação de estratégias; registro da escolha do instrumento. Para o 4ºA, distribuir a prática e o registro nos 50 minutos sem trocar a aula.
+#### Resumo do Encontro
+
+> **Mensagem de rotina para as famílias:** Hoje a turma participou de desafios de medição, escolhendo instrumentos adequados para cada situação. As crianças compararam resultados, testaram estratégias e explicaram aos colegas por que cada escolha fazia sentido. A proposta fortaleceu a observação, o raciocínio matemático e a comunicação das descobertas.
 
 ### 5º ano — Desafio de Bem-estar
 
@@ -52,3 +61,6 @@
 - Referências: professor p. 234; aluno p. 195.
 - Materiais: apostila, registros do Sistema respiratório e material indicado no desafio.
 - Condução: retomada do modelo respiratório; desafio em equipes; socialização das evidências; registro de uma prática de bem-estar relacionada à respiração.
+#### Resumo do Encontro
+
+> **Mensagem de rotina para as famílias:** Hoje a turma participou de um desafio de bem-estar a partir do que estudou sobre o sistema respiratório. As crianças analisaram situações do cotidiano, relacionaram respiração, movimento e cuidados com o corpo e compartilharam suas conclusões. Foi um momento de investigar como os conhecimentos científicos também ajudam nas escolhas do dia a dia.

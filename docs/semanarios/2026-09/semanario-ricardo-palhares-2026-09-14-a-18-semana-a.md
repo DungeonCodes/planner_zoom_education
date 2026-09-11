@@ -44,6 +44,9 @@
 | Programar | 35 min | Máquina de jogar futebol. |
 | Testar | 40 min | Criar, testar e corrigir uma sequência de comandos. |
 | Registrar | 15 min | Explicar qual comando precisou ser ajustado e por quê. |
+#### Resumo do Encontro
+
+> **Mensagem de rotina para as famílias:** Hoje a turma programou o Matata para participar de um desafio de futebol. As crianças pensaram nos movimentos necessários, criaram trajetos, testaram os comandos e ajustaram as sequências para alcançar o objetivo do jogo. A atividade estimulou planejamento, raciocínio lógico e cooperação entre os colegas.
 
 ### 5ºC — 16/09 — 14:35–15:45
 
@@ -56,6 +59,9 @@
 | Diagnóstico | 10 min | Retomar os conceitos essenciais de Sistema digestório. |
 | Construir e testar | 45 min | Realizar Sistema respiratório, observando inspiração, expiração e troca de gases. |
 | Registro | 15 min | Explicar uma relação observada no modelo. |
+#### Resumo do Encontro
+
+> **Mensagem de rotina para as famílias:** Hoje a turma construiu e testou um modelo do sistema respiratório. Ao observar o funcionamento da montagem, as crianças relacionaram inspiração, expiração e troca de gases ao que acontece em nosso corpo. A investigação tornou o conteúdo de Ciências mais concreto e estimulou perguntas e explicações da turma.
 
 ### 2ºD — 16/09 — 15:45–17:25
 
@@ -69,18 +75,27 @@
 | Programar | 35 min | Realizar Máquina de jogar futebol. |
 | Testar | 40 min | Criar, testar e corrigir sequências de comandos para cumprir o objetivo do jogo. |
 | Registro | 10 min | Explicar qual comando precisou de ajuste e por quê. |
+#### Resumo do Encontro
+
+> **Mensagem de rotina para as famílias:** Hoje a turma programou o Matata para participar de um desafio de futebol. As crianças pensaram nos movimentos necessários, criaram trajetos, testaram os comandos e ajustaram as sequências para alcançar o objetivo do jogo. A atividade estimulou planejamento, raciocínio lógico e cooperação entre os colegas.
 
 ### 5ºB — 17/09 — 07:15–08:55
 
 - Objetivo: construir e testar o modelo de Sistema respiratório, relacionando inspiração, expiração e troca de gases.
 - Referências: professor p. 222; aluno p. 185.
 - Experiência principal: construção, teste e explicação colaborativa do sistema respiratório.
+#### Resumo do Encontro
+
+> **Mensagem de rotina para as famílias:** Hoje a turma construiu e testou um modelo do sistema respiratório. Ao observar o funcionamento da montagem, as crianças relacionaram inspiração, expiração e troca de gases ao que acontece em nosso corpo. A investigação tornou o conteúdo de Ciências mais concreto e estimulou perguntas e explicações da turma.
 
 ### 2ºA — 17/09 — 08:55–09:20 e 10:05–10:55
 
 - Objetivo: programar o Matata em situação de jogo, com retomada breve de Mesa giratória.
 - Referências: Máquina de jogar futebol — professor p. 96; aluno pp. 5–16.
 - Experiência principal: programar e ajustar a Máquina de jogar futebol.
+#### Resumo do Encontro
+
+> **Mensagem de rotina para as famílias:** Hoje a turma programou o Matata para participar de um desafio de futebol. As crianças pensaram nos movimentos necessários, criaram trajetos, testaram os comandos e ajustaram as sequências para alcançar o objetivo do jogo. A atividade estimulou planejamento, raciocínio lógico e cooperação entre os colegas.
 
 ### 4ºA — 17/09 — 10:55–11:45
 
@@ -93,6 +108,9 @@
 | Retomada | 10 min | Relembrar a montagem iniciada e o que o Hodômetro mede. |
 | Testar | 25 min | Medir um percurso e comparar voltas, marcações e distância real. |
 | Registro | 15 min | Explicar como o mecanismo transforma movimento em medida. |
+#### Resumo do Encontro
+
+> **Mensagem de rotina para as famílias:** Hoje a turma construiu e testou um hodômetro, instrumento que mede distâncias a partir do movimento das rodas. As crianças montaram o modelo, realizaram medições, compararam os resultados com a trena e registraram o que descobriram durante os testes. A atividade aproximou conceitos de medida, movimento e resolução de problemas.
 
 ## Decisões necessárias antes de 17/09
 

@@ -46,6 +46,9 @@
 | Construir | 40 min | Montagem do hodômetro. |
 | Testar | 35 min | Medir percurso e comparar voltas do mecanismo com a distância real. |
 | Registrar | 15 min | Explicar o que o hodômetro mede e como funciona. |
+#### Resumo do Encontro
+
+> **Mensagem de rotina para as famílias:** Hoje a turma construiu e testou um hodômetro, instrumento que mede distâncias a partir do movimento das rodas. As crianças montaram o modelo, realizaram medições, compararam os resultados com a trena e registraram o que descobriram durante os testes. A atividade aproximou conceitos de medida, movimento e resolução de problemas.
 
 ### 1ºA — 10/09 — 08:55–09:20 e 10:05–10:55
 
@@ -60,6 +63,9 @@
 | Programação guiada | 25 min | Realizar Arraiá de robôs. |
 | Desafio principal | 30 min | Realizar Caça ao tesouro e operação salvamento, com teste e correção de comandos. |
 | Registro | 10 min | Desenhar ou escrever a sequência que levou o robô ao objetivo. |
+#### Resumo do Encontro
+
+> **Mensagem de rotina para as famílias:** Hoje a turma programou o Matata em uma narrativa de robótica. As crianças imaginaram a história, organizaram uma sequência de comandos, testaram o percurso do robô e corrigiram o que foi necessário para a narrativa acontecer. A proposta desenvolveu pensamento computacional, criatividade e colaboração.
 
 ### 5ºC — 09/09 — 14:35–15:45
 
@@ -71,6 +77,9 @@
 | Diagnóstico | 15 min | Retomar Sistema digestório e registrar conhecimentos essenciais para a próxima aula. |
 | Preparar | 40 min | Relacionar digestão, respiração e troca de gases por observação guiada do material. |
 | Registro | 15 min | Formular uma hipótese sobre inspiração e expiração para retomar na aula comum. |
+#### Resumo do Encontro
+
+> **Mensagem de rotina para as famílias:** Hoje realizamos uma retomada dos conhecimentos que servirão de base para o estudo do sistema respiratório. As crianças conversaram sobre o que já sabiam, registraram ideias e organizaram perguntas para as próximas investigações. Essa etapa prepara a turma para compreender, com mais segurança, o funcionamento do nosso corpo.
 
 ### 3ºB — 10/09 — 07:15–08:55
 
@@ -84,6 +93,9 @@
 | Investigar | 35 min | Realizar Cores na natureza com observação guiada e levantamento de hipóteses. |
 | Criar | 40 min | Realizar Cores na arte, usando cores de modo intencional na produção. |
 | Registro | 15 min | Explicar a escolha de cores e registrar a evidência para o próximo encontro compartilhado do 3º ano. |
+#### Resumo do Encontro
+
+> **Mensagem de rotina para as famílias:** Hoje a turma explorou as cores presentes na natureza e na arte. As crianças observaram referências, conversaram sobre combinações e contrastes e fizeram escolhas de cor em suas criações. Ao compartilhar as produções, puderam explicar suas ideias e valorizar diferentes formas de olhar para o mundo.
 
 ### 4ºA — 10/09 — 10:55–11:45
 
@@ -96,6 +108,9 @@
 | Diagnóstico | 10 min | Retomar Trena digital e Balança sem trocar a aula principal. |
 | Construir | 30 min | Iniciar a montagem do Hodômetro. |
 | Registrar | 10 min | Registrar o que o mecanismo mede; a continuação ocorre no próximo encontro semanal. |
+#### Resumo do Encontro
+
+> **Mensagem de rotina para as famílias:** Hoje a turma construiu e testou um hodômetro, instrumento que mede distâncias a partir do movimento das rodas. As crianças montaram o modelo, realizaram medições, compararam os resultados com a trena e registraram o que descobriram durante os testes. A atividade aproximou conceitos de medida, movimento e resolução de problemas.
 
 ### 4ºD — 09/09 — 15:45–17:25
 
@@ -111,3 +126,6 @@
 | Registrar | 15 min | Explicar como o mecanismo transforma movimento em medida. |
 
 - Registro pós-aula: anotar a evidência de aprendizagem e qualquer defasagem observada, sem substituir a aula oficial seguinte do 4º ano.
+#### Resumo do Encontro
+
+> **Mensagem de rotina para as famílias:** Hoje a turma construiu e testou um hodômetro, instrumento que mede distâncias a partir do movimento das rodas. As crianças montaram o modelo, realizaram medições, compararam os resultados com a trena e registraram o que descobriram durante os testes. A atividade aproximou conceitos de medida, movimento e resolução de problemas.
