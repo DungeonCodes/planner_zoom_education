@@ -4,6 +4,10 @@
 
 Organizar o planejamento pedagógico das aulas de Pensamento Computacional com base no conteúdo da Zoom Education.
 
+Em 14/09/2026, o escopo de planejamento foi ampliado a pedido do usuário para a Educação Infantil (turmas 2A–2C, 3A–3C e 4A–4C), com uso dos semanários históricos e dos volumes 1 a 3 da Zoom. O plano vigente está em `docs/cronograma_pedagogico/plano_infantil_set-dez_2026.md`; a grade atual foi fornecida pelo usuário.
+
+O usuário confirmou frequência semanal e duração de 50 minutos para as aulas do Infantil. A grade atual com dias, horários e professoras está em `docs/cronograma_pedagogico/grade_infantil_2026.md` e inclui a turma 3C, ausente dos semanários históricos.
+
 ## Tipo de Projeto
 
 Planejamento pedagógico e organização de conteúdo educacional.

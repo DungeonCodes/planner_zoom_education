@@ -1,5 +1,25 @@
 # Run Log
 
+## Registro — 2026-09-14 (grade do Infantil)
+
+Informação recebida: grade com oito horários semanais de 50 minutos, nove turmas e professoras responsáveis. Infantil 3B/3C compartilha o encontro de quarta-feira às 14:35; 3C não aparece nos semanários históricos. Registrada a grade em `docs/cronograma_pedagogico/grade_infantil_2026.md`, atualizado o plano até dezembro e revisados os semanários de setembro/outubro em Markdown e Word. Pendem calendário local, quantitativos de alunos e diagnóstico inicial da 3C.
+
+## Registro — 2026-09-14 (frequência e duração do Infantil)
+
+Informação recebida: aulas do Infantil são semanais, com duração de 50 minutos. Atualizados o plano, o ADR-014 e os seis semanários de setembro/outubro. A grade atual com dias e horários específicos será fornecida pelo usuário; até lá, as datas por turma continuam baseadas nos semanários antigos.
+
+## Registro — 2026-09-14 (confirmação de continuidade do Infantil)
+
+Informação recebida: não houve aulas do Infantil após os semanários de agosto, devido ao afastamento da professora. O plano, os semanários e os ADRs 013–014 foram atualizados para partir desse marco, sem supor conteúdo trabalhado entre 28/08 e 18/09. Permanecem pendentes a grade atual, os horários, a duração, os quantitativos e o calendário local.
+
+## Registro — 2026-09-14
+
+Ação realizada: análise dos três semanários antigos do Infantil e dos manuais Zoom (volumes 1 a 3); criação do plano até 18/12 e dos seis semanários de 21/09 a 30/10, em Markdown e Word.
+
+Resultado: oito turmas organizadas por faixa, com 13 encontros semanais projetados por turma. Referências de páginas do professor verificadas nos sumários dos manuais.
+
+Pendências: confirmar grade, horários, duração, calendário local, quantidades de alunos e avanço após 27/08; conferir visualmente fichas/cartazes antes de imprimir.
+
 ## Registro
 
 Data: 2026-09-01

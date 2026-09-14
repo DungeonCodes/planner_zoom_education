@@ -1,5 +1,7 @@
 # Semanários da professora anterior
 
+Os registros da Educação Infantil estão em [infantil/](infantil/), com os documentos originais e as respectivas versões em Markdown.
+
 Versões em Markdown dos documentos originais armazenados em `/data/semanarios_prof_anterior`. Os arquivos de origem foram preservados sem alteração.
 
 ## Ordem cronológica

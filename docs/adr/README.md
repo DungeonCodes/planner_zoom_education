@@ -16,5 +16,8 @@ Este diretório registra decisões duráveis do projeto no formato *Architecture
 | [010](010-correcao-do-ciclo-do-3b.md) | Correção de 3ºB para Semana B | Aceita |
 | [011](011-aula-compartilhada-por-serie.md) | Aula compartilhada por série e semana | Aceita |
 | [012](012-grade-semanal-4a-5c.md) | 4ºA e 5ºC como turmas semanais | Aceita |
+| [013](013-semanarios-historicos-educacao-infantil.md) | Semanários históricos da Educação Infantil como fonte de continuidade | Aceita |
+| [014](014-planejamento-infantil-set-dez-2026.md) | Planejamento semanal da Educação Infantil até dezembro de 2026 | Provisória |
+| [015](015-grade-semanal-educacao-infantil-2026.md) | Grade semanal da Educação Infantil em 2026 | Aceita |
 
 Os registros antigos em [decisions.md](../decisions.md) permanecem preservados como histórico anterior à adoção deste formato.

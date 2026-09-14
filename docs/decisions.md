@@ -19,3 +19,7 @@ Impacto esperado: Permitir o preenchimento posterior do calendário sem alterar 
 ## ADRs vigentes
 
 A partir de 02/09/2026, as decisões duráveis do projeto são registradas em [docs/adr/README.md](adr/README.md). Os registros acima foram preservados como histórico anterior.
+
+Em 14/09/2026, a extensão provisória do planejamento à Educação Infantil foi registrada no [ADR-014](adr/014-planejamento-infantil-set-dez-2026.md).
+
+A grade semanal do Infantil fornecida pelo usuário foi registrada no [ADR-015](adr/015-grade-semanal-educacao-infantil-2026.md).

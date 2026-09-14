@@ -4,6 +4,9 @@ Esta pasta organiza a estrutura do cronograma das aulas de Pensamento Computacio
 
 ## Arquivos
 
+* `plano_infantil_set-dez_2026.md`: sequência provisória para Infantil 2, 3 e 4 até 18/12/2026, baseada nos semanários anteriores e nos manuais dos volumes 1 a 3.
+* `grade_infantil_2026.md`: dias, horários de 50 minutos, turmas e professoras da Educação Infantil informados pelo usuário.
+
 * `grade_semanal.md`: grade fixa de professores, turnos, dias, horários e turmas.
 * `modelo_cronograma_datado.md`: modelo para registrar posteriormente cada ocorrência com data real.
 
