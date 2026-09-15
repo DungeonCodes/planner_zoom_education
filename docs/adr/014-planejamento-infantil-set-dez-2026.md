@@ -11,7 +11,7 @@ Os três semanários históricos recebidos identificam oito turmas de Infantil 2
 
 Planejar encontros **semanais de 50 minutos**, frequência e duração confirmadas pelo usuário, de 21/09 a 18/12/2026 conforme [plano do Infantil](../cronograma_pedagogico/plano_infantil_set-dez_2026.md). Usar os dias e horários da [grade recebida](../cronograma_pedagogico/grade_infantil_2026.md), registrada no ADR-015. Preparar uma aula comum por faixa etária e semana, com roteiros aplicáveis às turmas daquela faixa. Associar provisoriamente Infantil 2 ao volume 1, Infantil 3 ao volume 2 e Infantil 4 ao volume 3, associação coerente com os títulos de aula dos documentos antigos. Para 3C, verificar o ponto de partida no primeiro encontro, pois não há semanário histórico dessa turma.
 
-Gerar os semanários em Markdown e Word dentro de `docs/semanarios/AAAA-MM/infantil/`, seguindo a organização e os blocos usados no Fundamental 1. Os ciclos A/B nos títulos indicam apenas a semana do calendário compartilhado; não estabelecem frequência quinzenal para o Infantil.
+Gerar os semanários em Markdown e Word dentro de `docs/semanarios/AAAA-MM/infantil/`, seguindo a organização e os blocos usados no Fundamental 1, mas **sem** ciclos A/B em títulos, nomes ou identificação. Cada turma tem aula toda semana letiva no seu dia de grade. Se feriado ou suspensão alcançar uma turma, ela pula a lição daquela semana e, no encontro seguinte, realiza a mesma lição prevista para todas as turmas da sua faixa; não há reposição isolada nem alteração da sequência comum.
 
 ## Consequências
 

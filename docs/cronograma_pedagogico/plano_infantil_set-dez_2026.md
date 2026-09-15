@@ -12,21 +12,23 @@ A [grade da Educação Infantil](grade_infantil_2026.md) confirma **nove turmas 
 
 ## Sequência de encontros
 
-| Semana (ciclo do Fundamental) | Infantil 2 — Vol. 1 | Infantil 3 — Vol. 2 | Infantil 4 — Vol. 3 |
+O Infantil não usa ciclos A/B: cada faixa segue uma lição por semana letiva, comum a todas as suas turmas. Se uma turma não tiver aula por feriado ou suspensão, ela não recebe reposição nem desloca a sequência; no encontro seguinte, acompanha a lição semanal comum da sua faixa.
+
+| Semana | Infantil 2 — Vol. 1 | Infantil 3 — Vol. 2 | Infantil 4 — Vol. 3 |
 | --- | --- | --- | --- |
-| 21–25/09 (B) | Contos: A bela adormecida — Construir, p. 126 | Faz de conta que sou: Cozinheiro — Construir, p. 120 | Trânsito: Quem quer entrar no jogo? — Investigar, p. 8 |
-| 28/09–02/10 (A) | Contos: Construindo uma história — Construir, p. 130 | Construindo: O boneco mais alto — Construir, p. 124 | Trânsito: O piloto sumiu! — Investigar, p. 14 |
-| 05–09/10 (B) | Fazenda: O que será que aconteceu? — Investigar, p. 8 | Construindo: Um brinquedo esquisito — Construir, p. 128 | Trânsito: A gasolina acabou! — Investigar, p. 20 |
-| 12–16/10 (A) | Fazenda: Nosso alimento sumiu! — Investigar, p. 14 | Construindo: Um carro maluco — Construir, p. 132 | Trânsito: Parem o ônibus, por favor! — Investigar, p. 26 |
-| 19–23/10 (B) | Fazenda: Estamos com sede! — Investigar, p. 20 | Construindo: Uma casa engraçada — Construir, p. 136 | Trânsito: Atenção, há buracos na pista! — Investigar, p. 32 |
-| 26–30/10 (A) | Fazenda: Estamos com sono! — Investigar, p. 24 | Animais: Por que estão fugindo? — Investigar, p. 8 | Trânsito: O caso do primeiro farol — Investigar, p. 38 |
-| 02–06/11 (B) | Fazenda: Pais e filhos resolvendo problemas — Investigar, p. 30 | Animais: Os filhotes sumiram! — Investigar, p. 14 | Trânsito: resolução com famílias — Investigar, p. 46; atividade escolar adaptada até haver evento autorizado |
-| 09–13/11 (A) | Matata: Que coisa esquisita é essa? — Investigar, p. 38 | Animais: Cadê a comida? — Investigar, p. 20 | Robô no trânsito: Quem destruiu a cidade? — Investigar, p. 54 |
-| 16–20/11 (B) | Matata: a “coisa esquisita” apronta — Investigar, p. 44 | Animais: Qual é o caminho mais curto até o rio? — Investigar, p. 26 | Robô no trânsito: No meio do caminho tem um robô — Investigar, p. 60 |
-| 23–27/11 (A) | Matata: Estamos com medo do robô! — Investigar, p. 48 | Animais: resolução com famílias — Investigar, p. 32; atividade escolar adaptada até haver evento autorizado | Robô no trânsito: Seu mestre mandou — Investigar, p. 64 |
-| 30/11–04/12 (B) | Matata ganha uma nova profissão — Investigar, p. 52 | Robô na selva: Quem derruba as árvores? — Investigar, p. 38 | Robô no trânsito: o trânsito deu um nó — Investigar, p. 68 |
-| 07–11/12 (A) | Projeto Bolhas de Sabão: ideias e primeiros testes — Investigar, pp. 68–72 | Robô na selva: caminhos e comandos — Investigar, pp. 44–48 | Matata ganha nova profissão — Investigar, p. 72 |
-| 14–18/12 (B) | Projeto Bolhas: exploração e síntese — Investigar, pp. 74–88, com seleção conforme tempo; produto final depende de outro grupo disponível | Robô na selva: medo, solução e nova profissão — Investigar, pp. 52–56, com seleção conforme tempo | Projeto Animais da Amazônia: abertura — Investigar, pp. 90–94; continuidade em 2027 |
+| 21–25/09 | Contos: A bela adormecida — Construir, p. 126 | Faz de conta que sou: Cozinheiro — Construir, p. 120 | Trânsito: Quem quer entrar no jogo? — Investigar, p. 8 |
+| 28/09–02/10 | Contos: Construindo uma história — Construir, p. 130 | Construindo: O boneco mais alto — Construir, p. 124 | Trânsito: O piloto sumiu! — Investigar, p. 14 |
+| 05–09/10 | Fazenda: O que será que aconteceu? — Investigar, p. 8 | Construindo: Um brinquedo esquisito — Construir, p. 128 | Trânsito: A gasolina acabou! — Investigar, p. 20 |
+| 12–16/10 | Fazenda: Nosso alimento sumiu! — Investigar, p. 14 | Construindo: Um carro maluco — Construir, p. 132 | Trânsito: Parem o ônibus, por favor! — Investigar, p. 26 |
+| 19–23/10 | Fazenda: Estamos com sede! — Investigar, p. 20 | Construindo: Uma casa engraçada — Construir, p. 136 | Trânsito: Atenção, há buracos na pista! — Investigar, p. 32 |
+| 26–30/10 | Fazenda: Estamos com sono! — Investigar, p. 24 | Animais: Por que estão fugindo? — Investigar, p. 8 | Trânsito: O caso do primeiro farol — Investigar, p. 38 |
+| 02–06/11 | Fazenda: Pais e filhos resolvendo problemas — Investigar, p. 30 | Animais: Os filhotes sumiram! — Investigar, p. 14 | Trânsito: resolução com famílias — Investigar, p. 46; atividade escolar adaptada até haver evento autorizado |
+| 09–13/11 | Matata: Que coisa esquisita é essa? — Investigar, p. 38 | Animais: Cadê a comida? — Investigar, p. 20 | Robô no trânsito: Quem destruiu a cidade? — Investigar, p. 54 |
+| 16–20/11 | Matata: a “coisa esquisita” apronta — Investigar, p. 44 | Animais: Qual é o caminho mais curto até o rio? — Investigar, p. 26 | Robô no trânsito: No meio do caminho tem um robô — Investigar, p. 60 |
+| 23–27/11 | Matata: Estamos com medo do robô! — Investigar, p. 48 | Animais: resolução com famílias — Investigar, p. 32; atividade escolar adaptada até haver evento autorizado | Robô no trânsito: Seu mestre mandou — Investigar, p. 64 |
+| 30/11–04/12 | Matata ganha uma nova profissão — Investigar, p. 52 | Robô na selva: Quem derruba as árvores? — Investigar, p. 38 | Robô no trânsito: o trânsito deu um nó — Investigar, p. 68 |
+| 07–11/12 | Projeto Bolhas de Sabão: ideias e primeiros testes — Investigar, pp. 68–72 | Robô na selva: caminhos e comandos — Investigar, pp. 44–48 | Matata ganha nova profissão — Investigar, p. 72 |
+| 14–18/12 | Projeto Bolhas: exploração e síntese — Investigar, pp. 74–88, com seleção conforme tempo; produto final depende de outro grupo disponível | Robô na selva: medo, solução e nova profissão — Investigar, pp. 52–56, com seleção conforme tempo | Projeto Animais da Amazônia: abertura — Investigar, pp. 90–94; continuidade em 2027 |
 
 Datas de aula por turma segundo a grade recebida (sujeitas ao calendário escolar local):
 

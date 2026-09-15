@@ -1,10 +1,11 @@
-# Semanário — Educação Infantil — 19 a 23/10/2026 — Semana B
+# Semanário — Educação Infantil — 19 a 23/10/2026
 
 ## Identificação
 
+- Frequência e continuidade: o Infantil tem encontro semanal no dia da grade e não usa ciclos A/B. Quando feriado ou suspensão atingir uma turma, ela pula a lição daquela semana e acompanha a próxima lição comum da faixa no encontro seguinte, sem reposição isolada.
+
 - Professoras: Karina (4B), Lucia (3A e 3B/3C), Dri (4A e 4C), Raquel (2B), Thaís (2C) e Karla (2A), conforme a grade.
 - Grade: [Aulas de TI 2026 — Educação Infantil](../../../cronograma_pedagogico/grade_infantil_2026.md); encontros semanais de 50 minutos.
-- Ciclo A/B: referência do calendário do Fundamental; não altera a frequência semanal confirmada do Infantil.
 - Continuidade: partir do registro do encontro anterior. Se algum encontro planejado não ocorreu, realocar a sequência antes de avançar.
 - Calendário local e eventos escolares: a confirmar. A grade não indica aula de TI do Infantil na segunda nem na sexta-feira.
 
