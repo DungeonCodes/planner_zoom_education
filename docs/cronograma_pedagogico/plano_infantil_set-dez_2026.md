@@ -4,11 +4,11 @@
 
 Este plano usa os três semanários de Thayane de 11–27/08/2026 e os manuais Zoom Educação Infantil, volumes 1 (3 anos), 2 (4 anos) e 3 (5 anos). Os rótulos escolares Infantil 2, 3 e 4 foram associados respectivamente a esses volumes pela continuidade dos títulos presentes nos semanários. Conferir essa associação com a escola antes de imprimir.
 
-Os semanários antigos documentam **aulas planejadas**, não comprovam isoladamente que cada atividade foi realizada. O último registro é “O caminho do saci” (2A–2C), “A cesta da Cuca” (3A–3B) e “A missão do Curupira” (4A–4C), em 25–27/08. O usuário confirmou em 14/09 que **não houve aulas do Infantil após essas datas**, devido ao afastamento da professora. Assim, não há avanço posterior a incorporar. As atividades de folclore não pertencem à sequência dos manuais; o primeiro encontro novo retoma o último ponto identificável do livro: “João e o pé de feijão” (Infantil 2), “Taco e gol” (Infantil 3A/3B) e “Mulher Mais Poderosa do Mundo” (Infantil 4). A nova grade inclui também **Infantil 3C**, ausente dos registros históricos: fazer diagnóstico breve do ponto de partida dessa turma no encontro compartilhado com 3B, sem presumir atraso. Na retomada, acolher as turmas e recuperar brevemente a memória da última experiência antes do desafio novo.
+Os semanários antigos documentam **aulas planejadas**, não comprovam isoladamente que cada atividade foi realizada. O último registro é “O caminho do saci” (Inf. 2A–Inf. 2C), “A cesta da Cuca” (Inf. 3A–Inf. 3B) e “A missão do Curupira” (Inf. 4A–Inf. 4C), em 25–27/08. O usuário confirmou em 14/09 que **não houve aulas do Infantil após essas datas**, devido ao afastamento da professora. Assim, não há avanço posterior a incorporar. As atividades de folclore não pertencem à sequência dos manuais; o primeiro encontro novo retoma o último ponto identificável do livro: “João e o pé de feijão” (Infantil 2), “Taco e gol” (Inf. 3A/Inf. 3B) e “Mulher Mais Poderosa do Mundo” (Infantil 4). A nova grade inclui também **Inf. 3C**, ausente dos registros históricos: fazer diagnóstico breve do ponto de partida dessa turma no encontro compartilhado com Inf. 3B, sem presumir atraso. Na retomada, acolher as turmas e recuperar brevemente a memória da última experiência antes do desafio novo.
 
 ## Turmas e capacidade
 
-A [grade da Educação Infantil](grade_infantil_2026.md) confirma **nove turmas em oito horários semanais de 50 minutos**: 4B na terça; 3A, 4A, 3B/3C, 4C, 2B e 2C na quarta; 2A na quinta. São 13 encontros previstos por horário de 21/09 a 18/12, sujeitos ao calendário local. Confirmar número de alunos e eventuais suspensões de aula. Os feriados nacionais de 12/10 e 02/11 caem em segundas-feiras e não reduzem essa grade. Não há aula de Infantil indicada em 18/12 (sexta-feira).
+A [grade da Educação Infantil](grade_infantil_2026.md) confirma **nove turmas em oito horários semanais de 50 minutos**: Inf. 4B na terça; Inf. 3A, Inf. 4A, Inf. 3B/Inf. 3C, Inf. 4C, Inf. 2B e Inf. 2C na quarta; Inf. 2A na quinta. São 13 encontros previstos por horário de 21/09 a 18/12, sujeitos ao calendário local. Confirmar número de alunos e eventuais suspensões de aula. Os feriados nacionais de 12/10 e 02/11 caem em segundas-feiras e não reduzem essa grade. Não há aula de Infantil indicada em 18/12 (sexta-feira).
 
 ## Sequência de encontros
 
@@ -32,7 +32,7 @@ O Infantil não usa ciclos A/B: cada faixa segue uma lição por semana letiva, 
 
 Datas de aula por turma segundo a grade recebida (sujeitas ao calendário escolar local):
 
-| Semana | 4B (terça) | 3A, 4A, 3B/3C, 4C, 2B, 2C (quarta) | 2A (quinta) |
+| Semana | Inf. 4B (terça) | Inf. 3A, Inf. 4A, Inf. 3B/Inf. 3C, Inf. 4C, Inf. 2B, Inf. 2C (quarta) | Inf. 2A (quinta) |
 | --- | --- | --- | --- |
 | 1 | 22/09 | 23/09 | 24/09 |
 | 2 | 29/09 | 30/09 | 01/10 |
@@ -60,4 +60,4 @@ Não antecipar que os projetos foram integralmente concluídos: o cronograma ind
 
 ## Pendências operacionais
 
-Confirmar quantitativos de alunos, calendário da escola, ponto de partida do Infantil 3C e se o Infantil usa mesmo os volumes 1, 2 e 3 por faixa. As duas atividades que o manual prevê com famílias e a culminância de Bolhas dependem de acordo com a escola; as versões em sala são a alternativa planejada.
+Confirmar quantitativos de alunos, calendário da escola, ponto de partida da Inf. 3C e se o Infantil usa mesmo os volumes 1, 2 e 3 por faixa. As duas atividades que o manual prevê com famílias e a culminância de Bolhas dependem de acordo com a escola; as versões em sala são a alternativa planejada.

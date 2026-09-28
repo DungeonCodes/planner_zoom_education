@@ -2,6 +2,8 @@
 
 ## Visão da semana
 
+> **Orientação temporária da retomada:** priorizar propostas com construção, montagem, experimentação e teste para recuperar o vínculo dos estudantes com a experiência prática nas aulas de Tecnologia. É uma prioridade desta fase, não uma regra curricular permanente.
+
 | Turma | Data / horário | Conteúdo de partida | Aula oficial | Professor | Aluno |
 | --- | --- | --- | --- | --- | --- |
 | 3ºC | 28/09, 12:55–14:35 | Cores na natureza e Cores na arte | Desafio de Cores + Robô batedor de asas | pp. 140 e 164 | pp. 111 e 131 |
@@ -37,11 +39,22 @@
 
 > **Mensagem de rotina para as famílias:** Hoje a turma retomou os estudos sobre cores e construiu o Robô batedor de asas. Durante a montagem, as crianças observaram como as peças formam um mecanismo, testaram o movimento das asas e fizeram ajustes quando necessário. A atividade uniu investigação, criatividade e trabalho em equipe.
 
-### 5º ano — Desafio de Bem-estar
+### 5ºA — Momento do Desafio: Bem-estar (02/10)
 
-- Objetivo: aplicar o estudo do Sistema respiratório em uma investigação de bem-estar.
-- Referências: professor p. 234; aluno p. 195.
-- Condução: retomada do modelo respiratório; desafio em equipes; socialização das evidências; registro de uma prática de bem-estar.
+- Objetivo: planejar em equipe um cardápio equilibrado para uma semana e selecionar opções para a cantina, justificando as escolhas pelos critérios de variedade, moderação e equilíbrio apresentados no manual.
+- Referências: Manual do Educador, pp. 234–236; material do estudante, p. 195.
+- Materiais: papel sulfite, lápis de cor, canetas hidrocor, giz de cera e materiais para desenho ou colagem disponíveis. Se possível, consultar o cardápio oficial da escola como exemplo, conforme a orientação do manual.
+- Produto: cada equipe elabora uma parte do cardápio; a turma reúne as partes em um cartaz, livreto ou fôlder colaborativo. A revisão final verifica clareza, variedade e os critérios do manual, e cada equipe explica suas escolhas.
+- Duração: encontro de 100 min conforme a grade; distribuição de tempo adaptada ao encontro, pois o manual não fixa duração.
+
+| Etapa | Tempo | Condução |
+| --- | ---: | --- |
+| Desafio e conversa breve | 10 min | Apresentar a situação fictícia da cantina e levantar o que um cardápio informa. |
+| Planejar | 15 min | Definir a estrutura do cardápio semanal e repartir os dias entre equipes. |
+| Construir | 50 min | Desenhar ou fazer colagens para criar as partes do cardápio e reuni-las em um produto coletivo. |
+| Testar e ajustar | 15 min | Ler o produto completo; revisar legibilidade, variedade, moderação e equilíbrio conforme o manual; ajustar o que não estiver claro. |
+| Apresentar | 10 min | Explicar as escolhas e como o cardápio pode apoiar o bem-estar nutricional. |
+
 #### Resumo do Encontro
 
-> **Mensagem de rotina para as famílias:** Hoje a turma participou de um desafio de bem-estar a partir do que estudou sobre o sistema respiratório. As crianças analisaram situações do cotidiano, relacionaram respiração, movimento e cuidados com o corpo e compartilharam suas conclusões. Foi um momento de investigar como os conhecimentos científicos também ajudam nas escolhas do dia a dia.
+> **Mensagem de rotina para as famílias:** A turma planejou um cardápio semanal equilibrado para uma cantina fictícia. As equipes criaram partes do cardápio, reuniram o trabalho em um produto coletivo, revisaram as escolhas e explicaram como consideraram variedade, moderação e equilíbrio.

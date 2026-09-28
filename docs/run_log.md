@@ -136,3 +136,12 @@ Arquivos alterados: /docs/cronograma_pedagogico/README.md; /docs/cronograma_peda
 Resultado: Grade dos professores Rafael Martins e Ricardo Palhares estruturada por turno, dia e bloco de horários, com alternância quinzenal pendente de definição.
 Pendências: Ano letivo, calendário escolar, data inicial e associação das turmas às Semanas A e B.
 Próximo passo: Receber o calendário letivo para gerar as ocorrências datadas das aulas.
+
+## Registro
+
+Data: 2026-09-24
+Ação realizada: Revisão operacional dos semanários de Tecnologia para priorizar experiências práticas durante a retomada.
+Arquivos alterados: /docs/semanarios/2026-09/semanario-rafael-martins-2026-09-21-a-25-semana-b.md; /docs/semanarios/2026-09/semanario-rafael-martins-2026-09-28-a-10-02-semana-a.md; /docs/semanarios/2026-09/semanario-ricardo-palhares-2026-09-28-a-10-02-semana-a.md; /docs/run_log.md
+Resultado: Em 24/09, a atividade de Instrumentos de Medida (manual p. 116) da turma 4ºC foi substituída pela Máquina GBC. O PDF original localizado no acervo e sua extração textual confirmam a atividade na p. 126 do visualizador (p. 99 impressa), com construção e teste de movimentos sincronizados. O manual completo do 5º ano confirma que o Momento do Desafio de Bem-estar propõe criar um cardápio semanal; os semanários de 5ºA, 5ºB e 5ºC foram ajustados para incluir o produto coletivo (cartaz, livreto ou fôlder) e sua revisão. A prioridade prática foi registrada como temporária.
+Pendências: Conferir a sequência do 4ºC em seu próximo encontro após a antecipação da Máquina GBC. A cópia Word da semana 21–25 já tinha alterações locais antes desta revisão e não foi editada; conferir sua sincronização com o Markdown.
+Próximo passo: Rafael validar o encaminhamento do próximo encontro do 4ºC e sincronizar/validar a cópia Word do semanário de 21–25/09.

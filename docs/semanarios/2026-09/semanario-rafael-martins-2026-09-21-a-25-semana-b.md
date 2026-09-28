@@ -2,11 +2,13 @@
 
 ## Visão da semana
 
+> **Orientação temporária da retomada:** priorizar propostas com construção, montagem, experimentação e teste para recuperar o vínculo dos estudantes com a experiência prática nas aulas de Tecnologia. É uma prioridade desta fase, não uma regra curricular permanente.
+
 | Turma | Data / horário | Conteúdo de partida | Aula oficial | Professor | Aluno |
 | --- | --- | --- | --- | --- | --- |
 | 1ºC | 21/09, 15:45–17:25 | Avião/Foguete | Carros malucos + Desfile de carros malucos | pp. 112 e 118 | pp. 23–36 |
 | 3ºD | 22/09, 12:55–14:35 | Cores na natureza e Cores na arte | Desafio de Cores + Robô batedor de asas | pp. 140 e 164 | pp. 111 e 131 |
-| 4ºC | 24/09, 12:55–14:35 | Hodômetro | Desafio de Instrumentos de Medida | p. 116 | a confirmar |
+| 4ºC | 24/09, 12:55–14:35 | Hodômetro | Máquina GBC — montagem e teste | manual: p. 126 no visualizador (p. 99 impressa); aluno: início na p. 97 | p. 97; conferir também p. 99 |
 | 2ºC | 24/09, 15:45–17:25 | Máquina de jogar futebol | Máquina de desenhar | p. 106 | pp. 17–24 |
 | 3ºA | 25/09, 07:15–08:55 | Cores na natureza e Cores na arte | Desafio de Cores + Robô batedor de asas | pp. 140 e 164 | pp. 111 e 131 |
 
@@ -68,17 +70,21 @@
 
 > **Mensagem de rotina para as famílias:** Hoje a turma retomou os estudos sobre cores e construiu o Robô batedor de asas. Durante a montagem, as crianças observaram como as peças formam um mecanismo, testaram o movimento das asas e fizeram ajustes quando necessário. A atividade uniu investigação, criatividade e trabalho em equipe.
 
-### 4º ano — Desafio de Instrumentos de Medida
+### 4ºC — Máquina GBC (24/09)
 
-- Materiais: apostila, Hodômetro, trena/fita métrica, objetos e cartões de desafio.
-- Objetivo: escolher e usar instrumentos adequados para medir e justificar a escolha.
+- Materiais: peças identificadas na montagem do manual — motor, engrenagens de 8, 24 e 40 dentes, excêntrica e vigas — além da rampa e da bolinha de gude que percorre o mecanismo. O vídeo indicado é curto (menos de um minuto) e pode ser exibido se disponível.
+- Objetivo: construir e testar uma máquina que sincroniza o movimento da bolinha com o repositor, observando como as partes trabalham juntas para manter um ciclo contínuo; relacionar a sincronização ao transporte de cargas nos portos.
+- Referências: atividade “Máquina GBC”, manual p. 122 (início das orientações) e p. 126 do visualizador PDF, correspondente à p. 99 impressa; material do estudante, início na p. 97. O roteiro de montagem do acervo acompanha a construção. PDF original localizado em `data/zoom_education/pdfs_originais/.../4º Ano/Manual do Educador/JOZ4_Manual Do Educador.pdf`; a extração textual confirma o conteúdo da página do visualizador.
+- Duração: encontro de 100 min conforme a grade. O manual não indica duração aproximada para a montagem.
+- Pré-requisito: o manual não lista pré-requisito formal; a turma parte do estudo do Hodômetro, que pode ser retomado brevemente como conexão sobre transmissão de movimento.
 
 | Etapa | Tempo | Condução |
 | --- | ---: | --- |
-| Retomada | 10 min | Retomar o que o Hodômetro mede. |
-| Desafio | 50 min | Resolver desafios de medida em equipes, usando Hodômetro e trena. |
-| Comparar | 25 min | Comparar estratégias e resultados. |
-| Registro | 15 min | Registrar qual instrumento foi mais adequado e por quê. |
+| Desafio e observação | 10 min | Apresentar brevemente o desafio dos portos e observar o modelo/vídeo indicado. Fazer uma conexão curta com o Hodômetro: em ambos há transmissão de movimento, mas aqui as partes precisam atuar de modo coordenado. |
+| Montagem | 55 min | Construir a Máquina GBC conforme o material do estudante e o roteiro de montagem, apoiando as equipes quando necessário. |
+| Teste e ajustes | 25 min | Ligar a máquina, observar o percurso da bolinha e a ação do repositor; identificar travamentos ou desencontros e ajustar a montagem. |
+| Fechamento | 10 min | Conversar sobre como rampa, vigas, engrenagens, excêntrica e motor colaboram para o movimento sincronizado. |
+
 #### Resumo do Encontro
 
-> **Mensagem de rotina para as famílias:** Hoje a turma participou de desafios de medição, escolhendo instrumentos adequados para cada situação. As crianças compararam resultados, testaram estratégias e explicaram aos colegas por que cada escolha fazia sentido. A proposta fortaleceu a observação, o raciocínio matemático e a comunicação das descobertas.
+> **Mensagem de rotina para as famílias:** A turma construiu e testou uma Máquina GBC. As equipes observaram como o motor, as engrenagens, a excêntrica, a rampa e o repositor coordenam o percurso da bolinha, identificaram problemas e ajustaram a montagem. A conversa final relacionou o movimento sincronizado ao transporte de cargas nos portos.
