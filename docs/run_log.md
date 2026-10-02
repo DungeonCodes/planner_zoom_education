@@ -145,3 +145,21 @@ Arquivos alterados: /docs/semanarios/2026-09/semanario-rafael-martins-2026-09-21
 Resultado: Em 24/09, a atividade de Instrumentos de Medida (manual p. 116) da turma 4ºC foi substituída pela Máquina GBC. O PDF original localizado no acervo e sua extração textual confirmam a atividade na p. 126 do visualizador (p. 99 impressa), com construção e teste de movimentos sincronizados. O manual completo do 5º ano confirma que o Momento do Desafio de Bem-estar propõe criar um cardápio semanal; os semanários de 5ºA, 5ºB e 5ºC foram ajustados para incluir o produto coletivo (cartaz, livreto ou fôlder) e sua revisão. A prioridade prática foi registrada como temporária.
 Pendências: Conferir a sequência do 4ºC em seu próximo encontro após a antecipação da Máquina GBC. A cópia Word da semana 21–25 já tinha alterações locais antes desta revisão e não foi editada; conferir sua sincronização com o Markdown.
 Próximo passo: Rafael validar o encaminhamento do próximo encontro do 4ºC e sincronizar/validar a cópia Word do semanário de 21–25/09.
+
+## Registro
+
+Data: 2026-10-02
+Ação realizada: Auditoria final dos semanários vigentes de Rafael Martins e Ricardo Palhares para a semana A de 28/09 a 02/10, com validação da grade, das referências, da sequência e da natureza da experiência.
+Arquivos alterados: /docs/semanarios/2026-09/semanario-rafael-martins-2026-09-28-a-10-02-semana-a.md; /docs/semanarios/2026-09/semanario-rafael-martins-2026-09-28-a-10-02-semana-a.docx; /docs/semanarios/2026-09/semanario-ricardo-palhares-2026-09-28-a-10-02-semana-a.md; /docs/semanarios/2026-09/semanario-ricardo-palhares-2026-09-28-a-10-02-semana-a.docx; /docs/run_log.md.
+Resultado: Confirmado que o Desafio de Bem-estar (manual p. 234; estudante p. 195) é produção prática de cardápio, sem montagem tecnológica central. O 5ºC já havia esse desafio em 23/09; por isso, o encontro de 30/09 foi corrigido para Código Morse (manual p. 240; guia do estudante pp. 4–14), com montagem, programação e teste de um telégrafo digital com VinciBot. Os dois DOCX foram regenerados exclusivamente a partir dos Markdown e renderizados para inspeção visual.
+Pendências: Não há decisão pedagógica pendente para os semanários vigentes auditados.
+Próximo passo: Registrar a realização efetiva das aulas e usar essa evidência para preparar o próximo semanário disponível.
+
+## Registro
+
+Data: 2026-10-02
+Ação realizada: Revisão pedagógica exclusiva do encontro de 5ºA, 02/10, 07:1508:55.
+Arquivos alterados: /docs/semanarios/2026-09/semanario-rafael-martins-2026-09-28-a-10-02-semana-a.md; /docs/run_log.md.
+Resultado: O Desafio de Bem-estar foi deslocado, sem exclusão curricular e sem atribuição de nova data, para reposicionamento no próximo semanário. Código Morse foi antecipado porque inicia a unidade Meios de Comunicação e não depende de Bem-estar. O plano registra montagem do telégrafo digital, programação emissora/receptora, Teste 1 e depuração dentro dos 100 minutos; Teste 2 permanece como continuidade possível. As páginas confirmadas são Manual do Educador p. 240 e guia/material do estudante pp. 4–14.
+Pendências: Confirmar antes da aula a disponibilidade física de kits de blocos e mecanismos, VinciBots e computadores/tablets para os grupos. O DOCX foi preservado intencionalmente e está pendente de regeneração após a validação deste Markdown.
+Próximo passo: Validar o Markdown do 5ºA e, se aprovado, regenerar o DOCX de Rafael exclusivamente a partir dele.
