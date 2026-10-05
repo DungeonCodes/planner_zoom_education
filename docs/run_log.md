@@ -1,5 +1,33 @@
 # Run Log
 
+## Registro — 2026-10-05 (semanários de 05/10 a 15/12 concluídos)
+
+Ação realizada: concluído o planejamento dos encontros de Tecnologia do Fundamental 1 entre 05/10 e 15/12/2026, conforme ADR-005, considerando todos os dias úteis como letivos e excluindo somente os feriados oficiais informados por Rafael. Foram criados o Plano Mestre e 21 semanários em Markdown — 11 de Rafael Martins e 10 de Ricardo Palhares — cobrindo 100 encontros das 18 turmas.
+
+Decisões aplicadas: todas as aulas previstas nos Markdown até 02/10 foram tratadas como realizadas integralmente por confirmação explícita de Rafael. O feriado de 02/11 suprimiu o encontro do 1.ºC e o de 20/11 suprimiu o encontro do 3.ºA; 12/10 não incidiu sobre turma válida dos professores e 15/11 caiu no domingo. Bem-estar do 5.ºA foi reposicionado para 16/10 antes do avanço em Comunicação por infravermelho. A atividade de Medida do 4.ºC foi retomada em integração breve em 08/10, sem desfazer a Máquina GBC antecipada nem interromper a progressão para Ponte levadiça e Grua.
+
+Derivação e QA: os 21 DOCX foram gerados exclusivamente dos respectivos Markdown após a validação integral das fontes. Os pares foram comparados por conteúdo, os pacotes DOCX foram abertos e validados, o formato A4 com margens de 2,54 cm foi confirmado, e as 145 páginas renderizadas foram inspecionadas visualmente sem falhas de integridade, cortes, páginas vazias indevidas ou problemas de tabelas e caracteres.
+
+Pendência operacional: disponibilidade e carga de Matata/Matatalab, VinciBots, kits, motores, peças e computadores/tablets permanecem a confirmar antes dos encontros que dependem desses recursos; a indisponibilidade de item essencial configura risco operacional e exige preservação do objetivo por demonstração e registro de reposição. Nenhum bloqueio documental permanece. Nenhum commit ou push foi realizado.
+
+## Registro — 2026-10-05 (confirmação de execução até 02/10)
+
+Informação recebida: Rafael confirmou explicitamente como realizadas integralmente, sem exceções, todas as aulas previstas nos semanários Markdown até 02/10/2026. Essa confirmação substitui os estados anteriores `A CONFIRMAR` e passa a ser a evidência operacional de avanço das 18 turmas do Fundamental 1.
+
+Resultado: o bloqueio de execução foi resolvido. O bloqueio de calendário permanece, pois o caminho informado foi `[COLE AQUI O CAMINHO REAL DO ARQUIVO]` e nenhum calendário escolar de outubro a dezembro foi localizado no repositório. Nenhum semanário futuro ou DOCX foi gerado.
+
+Próximo passo: receber o caminho real do calendário oficial, extrair os encontros efetivos e então fechar o Plano Mestre antes da geração dos Markdown e DOCX.
+
+## Registro — 2026-10-05 (auditoria para semanários restantes de 2026)
+
+Ação realizada: leitura dos ADRs, contexto, decisões, plano vigente, grade, semanários Markdown e registros operacionais para preparar os semanários de Rafael Martins e Ricardo Palhares a partir de 05/10/2026.
+
+Resultado: a grade, a alternância A/B, a sequência curricular e as decisões pedagógicas até 02/10 foram reconstruídas. A geração dos novos Markdown e DOCX não foi iniciada porque o repositório não contém o calendário escolar local nem registros pós-aula que confirmem o que foi efetivamente concluído por cada turma; os próprios documentos vigentes mantêm o calendário local como pendência. O horizonte de 15/12 é uma premissa do plano, não confirmação do último encontro letivo real.
+
+Pendências: fornecer o calendário escolar de outubro a dezembro, incluindo último dia letivo, recessos, eventos, conselhos, suspensões e feriados municipais; registrar por turma se a última aula planejada ocorreu e até que etapa avançou; confirmar a disponibilidade e a quantidade de Matata/Matatalab, VinciBots, kits, motores, peças e computadores/tablets.
+
+Próximo passo: após essas confirmações, fechar o Plano Mestre datado, validar todos os Markdown, gerar os DOCX exclusivamente a partir deles e executar a inspeção visual.
+
 ## Registro — 2026-09-14 (grade do Infantil)
 
 Informação recebida: grade com oito horários semanais de 50 minutos, nove turmas e professoras responsáveis. Infantil 3B/3C compartilha o encontro de quarta-feira às 14:35; 3C não aparece nos semanários históricos. Registrada a grade em `docs/cronograma_pedagogico/grade_infantil_2026.md`, atualizado o plano até dezembro e revisados os semanários de setembro/outubro em Markdown e Word. Pendem calendário local, quantitativos de alunos e diagnóstico inicial da 3C.
