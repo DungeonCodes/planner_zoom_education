@@ -52,3 +52,7 @@ Definir o local de acesso aos materiais da Zoom Education, a autorização para 
 ## Próxima Instrução para o Agente
 
 Após receber a origem autorizada dos materiais, navegar no Chrome para localizar e baixar os PDFs do Ensino Fundamental 1, do 1º ao 5º ano, e então extrair e organizar seu conteúdo.
+
+## Estado operacional em 06/10/2026
+
+Infantil planejado até 15/12 pelo [Plano Mestre](cronograma_pedagogico/plano_mestre_infantil_2026-10-06-a-12-15.md). Semanários em raízes distintas [Markdown](semanarios/md/) e [DOCX](semanarios/docx/), por segmento e mês. O usuário confirmou execução do Infantil até 02/10. O planejamento futuro do Fundamental I permanece preservado. Convenção e gates no [README dos semanários](semanarios/README.md).

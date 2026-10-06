@@ -12,8 +12,11 @@
 ## Decisões de reposicionamento
 
 - 5ºA: o Desafio de Bem-estar foi reposicionado para 16/10, antes do avanço para Comunicação por infravermelho. Assim, a turma fecha a unidade Bem-estar sem repetir Código Morse.
-- 4ºC: o Desafio de Instrumentos de Medida foi integrado à retomada inicial de 08/10; Ponte levadiça e Grua permanecem como experiência maker central do encontro.
-- 4ºA e 5ºC: os encontros semanais distribuem construção, programação, testes, ajustes e registro em etapas sucessivas, sem forçar conclusão em 50/70 minutos.
+- 4ºC: preservar a Máquina GBC realizada em 24/09. Em 08/10, integrar 15 minutos de retomada de Medida aos testes de sincronização e a A Charada das Engrenagens da própria GBC (manual pp. 126–128; aluno pp. 99–102), sem antecipar Ponte/Grua. A turma reconverge com 4ºB/4ºD na Q2, em 22/10, e acompanha a mesma sequência até a Q5.
+- 4ºA e 5ºC: os encontros semanais distribuem construção, programação, testes, ajustes e registro em etapas sucessivas, sem forçar conclusão em 50/70 minutos. No 4ºA, 12/11 conclui Dia e noite e a síntese dos Portos; 19 e 26/11 integram Horas, Segundos e desafio dentro da Q4, sem antecipar a unidade seguinte. A sequência do 5ºC foi preservada.
+
+- 3ºD: em 01/12, retomar a Colheitadeira de 17/11, especificamente os Testes 3 e 4 de sensor de distância e parada segura (manual pp. 256–264; material do estudante pp. 6–8), preparando a culminância de 15/12.
+- 5ºA/5ºB: o Desafio de Meios de Comunicação de 27/11 e 26/11 inicia a maquete; corrigido o rótulo de Continuação para Início, pois os roteiros anteriores documentam Parabólica, sem preparação prévia da maquete. Atividade e sequência preservadas.
 
 ## Plano completo
 
@@ -27,7 +30,7 @@
 | 05/10–09/10 (B) | Ricardo Palhares | 3ºB | 08/10 | 07:15–08:55 | Robô arbóreo + Robô quadrúpede + desafio de Locomoção dos Animais | pp. 148, 156 e 172 | pp. 117, 125 e 139 | A | Não |
 | 05/10–09/10 (B) | Ricardo Palhares | 1ºA | 08/10 | 08:55–09:20 e 10:05–10:55 | Lá vem o trem | p. 124 | pp. 37–44 | D | Não |
 | 05/10–09/10 (B) | Ricardo Palhares | 4ºA | 08/10 | 10:55–11:45 | Máquina GBC — conclusão, testes e ajustes | p. 122 | p. 97 | A | Continuação |
-| 05/10–09/10 (B) | Rafael Martins | 4ºC | 08/10 | 12:55–14:35 | Retomada do Desafio de Medida + Ponte levadiça e Grua | pp. 116, 130 e 140 | pp. 93, 105 e 117 | A | Reposicionamento |
+| 05/10–09/10 (B) | Rafael Martins | 4ºC | 08/10 | 12:55–14:35 | Retomada do Desafio de Medida + Máquina GBC — testes de sincronização e A Charada das Engrenagens | pp. 116 e 126–128 | pp. 93 e 99–102 | A | Aprofundamento / equalização |
 | 05/10–09/10 (B) | Rafael Martins | 2ºC | 08/10 | 15:45–17:25 | Dançando com o Matata | p. 112 | pp. 25–30 | D | Não |
 | 05/10–09/10 (B) | Rafael Martins | 3ºA | 09/10 | 07:15–08:55 | Robô arbóreo + Robô quadrúpede + desafio de Locomoção dos Animais | pp. 148, 156 e 172 | pp. 117, 125 e 139 | A | Não |
 | 12/10–16/10 (A) | Rafael Martins | 3ºC | 13/10 | 12:55–14:35 | Robô arbóreo + Robô quadrúpede + desafio de Locomoção dos Animais | pp. 148, 156 e 172 | pp. 117, 125 e 139 | A | Não |
@@ -47,7 +50,7 @@
 | 19/10–23/10 (B) | Ricardo Palhares | 3ºB | 22/10 | 07:15–08:55 | Parque de diversões + Circo + Áreas livres + desafio | pp. 176, 186, 196 e 204 | pp. 143, 153, 161 e 166–167 | A | Não |
 | 19/10–23/10 (B) | Ricardo Palhares | 1ºA | 22/10 | 08:55–09:20 e 10:05–10:55 | Você está pronto para zarpar para a Lua? | p. 132 | pp. 45–50 | D | Não |
 | 19/10–23/10 (B) | Ricardo Palhares | 4ºA | 22/10 | 10:55–11:45 | Ponte levadiça — programação e testes + introdução à Grua | pp. 130 e 140 | pp. 105 e 117 | A | Continuação |
-| 19/10–23/10 (B) | Rafael Martins | 4ºC | 22/10 | 12:55–14:35 | Desafio de Tecnologia nos Portos + Dia e noite | pp. 148 e 152 | pp. 125 e 129 | A | Não |
+| 19/10–23/10 (B) | Rafael Martins | 4ºC | 22/10 | 12:55–14:35 | Ponte levadiça + Grua | pp. 130 e 140 | pp. 105 e 117 | A | Não |
 | 19/10–23/10 (B) | Rafael Martins | 2ºC | 22/10 | 15:45–17:25 | Espetáculo de dança com o Matata | p. 118 | pp. 31–34 | D | Não |
 | 19/10–23/10 (B) | Rafael Martins | 3ºA | 23/10 | 07:15–08:55 | Parque de diversões + Circo + Áreas livres + desafio | pp. 176, 186, 196 e 204 | pp. 143, 153, 161 e 166–167 | A | Não |
 | 26/10–30/10 (A) | Rafael Martins | 3ºC | 27/10 | 12:55–14:35 | Parque de diversões + Circo + Áreas livres + desafio | pp. 176, 186, 196 e 204 | pp. 143, 153, 161 e 166–167 | A | Não |
@@ -66,7 +69,7 @@
 | 02/11–06/11 (B) | Ricardo Palhares | 3ºB | 05/11 | 07:15–08:55 | Furadeira + Ponte rolante + Catraca + desafio de Mundo do Trabalho | pp. 208, 218, 230 e 240 | Guias: Furadeira pp. 4–10; Ponte rolante pp. 2–8; Catraca pp. 2–8; desafio p. 2 | A | Não |
 | 02/11–06/11 (B) | Ricardo Palhares | 1ºA | 05/11 | 08:55–09:20 e 10:05–10:55 | Perdidos no espaço — ensaio geral | p. 138 | pp. 51–56 | D | Não |
 | 02/11–06/11 (B) | Ricardo Palhares | 4ºA | 05/11 | 10:55–11:45 | Dia e noite | p. 152 | p. 129 | A | Não |
-| 02/11–06/11 (B) | Rafael Martins | 4ºC | 05/11 | 12:55–14:35 | Horas + Segundos + desafio de De Olho no Tempo | pp. 160, 168 e 174 | pp. 139–155 | A | Não |
+| 02/11–06/11 (B) | Rafael Martins | 4ºC | 05/11 | 12:55–14:35 | Desafio de Tecnologia nos Portos + Dia e noite | pp. 148 e 152 | pp. 125 e 129 | A | Não |
 | 02/11–06/11 (B) | Rafael Martins | 2ºC | 05/11 | 15:45–17:25 | Aventura na fábrica de tecidos estampados | p. 122 | pp. 35–42 | D | Não |
 | 02/11–06/11 (B) | Rafael Martins | 3ºA | 06/11 | 07:15–08:55 | Furadeira + Ponte rolante + Catraca + desafio de Mundo do Trabalho | pp. 208, 218, 230 e 240 | Guias: Furadeira pp. 4–10; Ponte rolante pp. 2–8; Catraca pp. 2–8; desafio p. 2 | A | Não |
 | 09/11–13/11 (A) | Rafael Martins | 3ºC | 10/11 | 12:55–14:35 | Furadeira + Ponte rolante + Catraca + desafio de Mundo do Trabalho | pp. 208, 218, 230 e 240 | Guias: Furadeira pp. 4–10; Ponte rolante pp. 2–8; Catraca pp. 2–8; desafio p. 2 | A | Não |
@@ -76,7 +79,7 @@
 | 09/11–13/11 (A) | Ricardo Palhares | 2ºD | 11/11 | 15:45–17:25 | Aventura na fábrica de tecidos estampados | p. 122 | pp. 35–42 | D | Não |
 | 09/11–13/11 (A) | Ricardo Palhares | 5ºB | 12/11 | 07:15–08:55 | Parabólica satélite — construção | p. 266 | pp. 2–12 | A | Não |
 | 09/11–13/11 (A) | Ricardo Palhares | 2ºA | 12/11 | 08:55–09:20 e 10:05–10:55 | Aventura na fábrica de tecidos estampados | p. 122 | pp. 35–42 | D | Não |
-| 09/11–13/11 (A) | Ricardo Palhares | 4ºA | 12/11 | 10:55–11:45 | Horas | p. 160 | p. 139 | D | Não |
+| 09/11–13/11 (A) | Ricardo Palhares | 4ºA | 12/11 | 10:55–11:45 | Dia e noite — testes dos movimentos + síntese do Desafio de Tecnologia nos Portos | pp. 148–149 e 152–159 | pp. 125 e 129–137 | A | Continuação |
 | 09/11–13/11 (A) | Rafael Martins | 5ºA | 13/11 | 07:15–08:55 | Parabólica satélite — construção | p. 266 | pp. 2–12 | A | Não |
 | 16/11–20/11 (B) | Rafael Martins | 1ºC | 16/11 | 15:45–17:25 | Perdidos no espaço — ensaio geral | p. 138 | pp. 51–56 | D | Não |
 | 16/11–20/11 (B) | Rafael Martins | 3ºD | 17/11 | 12:55–14:35 | Escavadeira + Colheitadeira + Transportando + desafio de Tecnologia no Campo | pp. 246, 256, 266 e 274 | Guias: Escavadeira pp. 4–10; Colheitadeira pp. 2–8; Transportando pp. 2–6; desafio p. 2 | A | Não |
@@ -85,27 +88,27 @@
 | 16/11–20/11 (B) | Ricardo Palhares | 4ºD | 18/11 | 15:45–17:25 | Horas + Segundos + desafio de De Olho no Tempo | pp. 160, 168 e 174 | pp. 139–155 | A | Não |
 | 16/11–20/11 (B) | Ricardo Palhares | 3ºB | 19/11 | 07:15–08:55 | Escavadeira + Colheitadeira + Transportando + desafio de Tecnologia no Campo | pp. 246, 256, 266 e 274 | Guias: Escavadeira pp. 4–10; Colheitadeira pp. 2–8; Transportando pp. 2–6; desafio p. 2 | A | Não |
 | 16/11–20/11 (B) | Ricardo Palhares | 1ºA | 19/11 | 08:55–09:20 e 10:05–10:55 | Projeto Perdidos no espaço | p. 142 | pp. 57–60 | D | Não |
-| 16/11–20/11 (B) | Ricardo Palhares | 4ºA | 19/11 | 10:55–11:45 | Segundos | p. 168 | p. 147 | D | Não |
-| 16/11–20/11 (B) | Rafael Martins | 4ºC | 19/11 | 12:55–14:35 | Comunicação impressa, falada e visual + desafio de História da Comunicação | pp. 180, 190, 200 e 210 | Guias: Impressa pp. 4–10; Falada pp. 2–8; Visual pp. 2–8; desafio p. 2 | A | Síntese |
+| 16/11–20/11 (B) | Ricardo Palhares | 4ºA | 19/11 | 10:55–11:45 | Horas + Segundos — investigação e construção do cronômetro | pp. 160–173 | pp. 139–152 | A | Continua em 26/11 |
+| 16/11–20/11 (B) | Rafael Martins | 4ºC | 19/11 | 12:55–14:35 | Horas + Segundos + desafio de De Olho no Tempo | pp. 160, 168 e 174 | pp. 139–155 | A | Não |
 | 16/11–20/11 (B) | Rafael Martins | 2ºC | 19/11 | 15:45–17:25 | Quem conta um conto... | p. 128 | pp. 43–52 | D | Não |
 | 23/11–27/11 (A) | Rafael Martins | 3ºC | 24/11 | 12:55–14:35 | Escavadeira + Colheitadeira + Transportando + desafio de Tecnologia no Campo | pp. 246, 256, 266 e 274 | Guias: Escavadeira pp. 4–10; Colheitadeira pp. 2–8; Transportando pp. 2–6; desafio p. 2 | A | Não |
 | 23/11–27/11 (A) | Rafael Martins | 1ºB | 24/11 | 15:45–17:25 | Projeto Perdidos no espaço | p. 142 | pp. 57–60 | D | Não |
 | 23/11–27/11 (A) | Ricardo Palhares | 2ºB | 25/11 | 07:15–08:55 | Quem conta um conto... | p. 128 | pp. 43–52 | D | Não |
 | 23/11–27/11 (A) | Ricardo Palhares | 5ºC | 25/11 | 14:35–15:45 | Síntese e laboratório de comunicação | pp. 240–279 | Guias de Código Morse, IR e Parabólica | A | Síntese |
 | 23/11–27/11 (A) | Ricardo Palhares | 2ºD | 25/11 | 15:45–17:25 | Quem conta um conto... | p. 128 | pp. 43–52 | D | Não |
-| 23/11–27/11 (A) | Ricardo Palhares | 5ºB | 26/11 | 07:15–08:55 | Desafio de Meios de Comunicação — construção da maquete | pp. 278–279 | pp. 1–2 | B | Continuação |
+| 23/11–27/11 (A) | Ricardo Palhares | 5ºB | 26/11 | 07:15–08:55 | Desafio de Meios de Comunicação — construção da maquete | pp. 278–279 | pp. 1–2 | B | Início |
 | 23/11–27/11 (A) | Ricardo Palhares | 2ºA | 26/11 | 08:55–09:20 e 10:05–10:55 | Quem conta um conto... | p. 128 | pp. 43–52 | D | Não |
-| 23/11–27/11 (A) | Ricardo Palhares | 4ºA | 26/11 | 10:55–11:45 | Desafio de De Olho no Tempo | p. 174 | pp. 154–155 | B | Não |
-| 23/11–27/11 (A) | Rafael Martins | 5ºA | 27/11 | 07:15–08:55 | Desafio de Meios de Comunicação — construção da maquete | pp. 278–279 | pp. 1–2 | B | Continuação |
+| 23/11–27/11 (A) | Ricardo Palhares | 4ºA | 26/11 | 10:55–11:45 | Segundos — conclusão dos testes + Desafio de De Olho no Tempo | pp. 168–175 | pp. 147–152 e 154–155 | B | Continuação |
+| 23/11–27/11 (A) | Rafael Martins | 5ºA | 27/11 | 07:15–08:55 | Desafio de Meios de Comunicação — construção da maquete | pp. 278–279 | pp. 1–2 | B | Início |
 | 30/11–04/12 (B) | Rafael Martins | 1ºC | 30/11 | 15:45–17:25 | Projeto Perdidos no espaço | p. 142 | pp. 57–60 | D | Não |
-| 30/11–04/12 (B) | Rafael Martins | 3ºD | 01/12 | 12:55–14:35 | Aprofundamento, testes e depuração de construção prioritária do 3º ano | pp. 148–275 | Guia da construção retomada | A | Continuação |
+| 30/11–04/12 (B) | Rafael Martins | 3ºD | 01/12 | 12:55–14:35 | Colheitadeira — retomada dos Testes 3 e 4: sensor de distância e parada segura | pp. 256–264 | Colheitadeira pp. 6–8 | A | Continuação |
 | 30/11–04/12 (B) | Ricardo Palhares | 4ºB | 02/12 | 07:15–08:55 | Comunicação impressa, falada e visual + desafio de História da Comunicação | pp. 180, 190, 200 e 210 | Guias: Impressa pp. 4–10; Falada pp. 2–8; Visual pp. 2–8; desafio p. 2 | A | Síntese |
 | 30/11–04/12 (B) | Ricardo Palhares | 5ºC | 02/12 | 14:35–15:45 | Recomposição e registro avaliativo do 5º ano | pp. 240–279 | Guias das atividades retomadas | D | Síntese |
 | 30/11–04/12 (B) | Ricardo Palhares | 4ºD | 02/12 | 15:45–17:25 | Comunicação impressa, falada e visual + desafio de História da Comunicação | pp. 180, 190, 200 e 210 | Guias: Impressa pp. 4–10; Falada pp. 2–8; Visual pp. 2–8; desafio p. 2 | A | Síntese |
 | 30/11–04/12 (B) | Ricardo Palhares | 3ºB | 03/12 | 07:15–08:55 | Culminância do 3º ano: recomposição, demonstração e registro | pp. 148–275 | Guias das construções retomadas | A | Síntese |
 | 30/11–04/12 (B) | Ricardo Palhares | 1ºA | 03/12 | 08:55–09:20 e 10:05–10:55 | Situações-problema, recomposição e registro avaliativo | pp. 96–142 | pp. 5–60 | D | Síntese |
 | 30/11–04/12 (B) | Ricardo Palhares | 4ºA | 03/12 | 10:55–11:45 | História da Comunicação — prensa e robô cinegrafista | pp. 180, 190 e 200 | Guias: Impressa pp. 4–10; Falada pp. 2–8; Visual pp. 2–8 | A | Não |
-| 30/11–04/12 (B) | Rafael Martins | 4ºC | 03/12 | 12:55–14:35 | Culminância do 4º ano: demonstração, recomposição e registro | pp. 122–211 | Guias das construções retomadas | A | Síntese |
+| 30/11–04/12 (B) | Rafael Martins | 4ºC | 03/12 | 12:55–14:35 | Comunicação impressa, falada e visual + desafio de História da Comunicação | pp. 180, 190, 200 e 210 | Guias: Impressa pp. 4–10; Falada pp. 2–8; Visual pp. 2–8; desafio p. 2 | A | Síntese |
 | 30/11–04/12 (B) | Rafael Martins | 2ºC | 03/12 | 15:45–17:25 | ... aumenta um ponto! + projeto Os contadores de história | pp. 136 e 142 | pp. 53–64 | D | Síntese |
 | 30/11–04/12 (B) | Rafael Martins | 3ºA | 04/12 | 07:15–08:55 | Escavadeira + Colheitadeira + Transportando + desafio de Tecnologia no Campo | pp. 246, 256, 266 e 274 | Guias: Escavadeira pp. 4–10; Colheitadeira pp. 2–8; Transportando pp. 2–6; desafio p. 2 | A | Não |
 | 07/12–11/12 (A) | Rafael Martins | 3ºC | 08/12 | 12:55–14:35 | Culminância do 3º ano: recomposição, demonstração e registro | pp. 148–275 | Guias das construções retomadas | A | Síntese |

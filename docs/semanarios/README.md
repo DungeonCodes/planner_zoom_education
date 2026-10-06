@@ -1,18 +1,55 @@
 # Semanários
 
-Os semanários da Educação Infantil ficam em `AAAA-MM/infantil/`, em Markdown e Word. O [plano de 21/09 a 18/12/2026](../cronograma_pedagogico/plano_infantil_set-dez_2026.md) e o [ADR-014](../adr/014-planejamento-infantil-set-dez-2026.md) explicam a sequência e as confirmações pendentes.
+**Markdown é a fonte de verdade. DOCX é artefato derivado do seu Markdown.**
 
-A [grade atual do Infantil](../cronograma_pedagogico/grade_infantil_2026.md) registra nove turmas em oito horários; 3B e 3C dividem o encontro de quarta-feira às 14:35. Os registros históricos não incluem a 3C, que precisa de diagnóstico breve no primeiro encontro.
+Fluxo: fontes → ADRs → planejamento → Markdown → validação → DOCX → QA visual. Havendo divergência, corrigir o derivado pelo Markdown, sem decidir conteúdo pedagógico pelo Word.
 
-Os semanários são organizados por mês no formato `AAAA-MM`. As pastas de 2026 já estão preparadas; setembro contém os documentos atuais. Em cada semana, Rafael Martins e Ricardo Palhares usam a mesma aula oficial para as turmas de uma mesma série que se encontram naquele ciclo, conforme o ADR-011.
+## Organização
 
-## Preparo semanal de aulas
+```text
+docs/semanarios/
+├── md/
+│   ├── fundamental-1/{2026-06,2026-08,2026-09,2026-10,2026-11,2026-12}/
+│   └── infantil/{2026-08,2026-09,2026-10,2026-11,2026-12}/
+├── docx/
+│   ├── fundamental-1/{2026-06,2026-08,2026-09,2026-10,2026-11,2026-12}/
+│   └── infantil/{2026-08,2026-09,2026-10,2026-11,2026-12}/
+├── README.md
+├── matriz-validacao-md-docx.md
+├── migracao-2026-10-06.md
+├── relatorio-infantil-e-migracao-2026-10-06.md
+├── validacao-md-docx-2026-10-05-a-12-15.md
+└── resumo-materiais-e-impressoes-2026-09.{md,docx}
+```
 
-- **Previsão mínima:** 5 horas por semana completa, uma para cada série do 1º ao 5º ano.
-- **Reserva recomendada:** 6 horas por semana, incluindo 1 hora de margem para montagem/teste de robôs, impressões e ajustes.
-- **Estimativa de 07/09 a 15/12:** 72 horas de preparo compartilhado.
+A convenção foi solicitada pelo usuário em 06/10/2026 e substitui operacionalmente os caminhos de novos semanários citados nos ADRs 013–014. Os ADRs permanecem íntegros; suas regras pedagógicas continuam aplicadas. O [manifesto](migracao-2026-10-06.md) relaciona caminhos antigos e atuais. Não criar cópias ou atalhos de semanários nas pastas antigas.
 
-Consulte a [simulação detalhada](../simulacoes/preparo-de-aulas-set-dez-2026.md).
+Os históricos convertidos de junho e agosto também estão em `md/<segmento>/<mês>/`, sem reescrita pedagógica. Os Word recebidos são **fontes originais**, preservadas em `data/semanarios_prof_anterior/`, e não artefatos derivados nem fontes de decisão nova. Os DOCX nas raízes de entrega são derivados dos MD. Os READMEs de origem em `outputs/semanarios_prof_anterior/` permanecem como índices de proveniência. Documentação administrativa permanece nesta raiz, fora das raízes de semanários.
+
+## Infantil
+
+A [grade atual](../cronograma_pedagogico/grade_infantil_2026.md) confirma nove turmas em oito horários semanais de 50 minutos. Inf. 3B/3C compartilha quarta às 14:35. **O Infantil não usa ciclos A/B.** O [Plano Mestre](../cronograma_pedagogico/plano_mestre_infantil_2026-10-06-a-12-15.md) cobre 91 participações de turma em 81 horários reais, desde 06/10 até 15/12. As aulas de setembro foram confirmadas integralmente em 06/10, incluindo a 3C.
+
+Os quatro semanários de outubro existentes foram aproveitados e sete novos de novembro/dezembro completam o horizonte. Inf. 4B encerra em 15/12; as turmas de quarta em 09/12 e 2A em 10/12. O [plano curricular](../cronograma_pedagogico/plano_infantil_set-dez_2026.md) registra os recortes e a progressão.
+
+## Ferramentas e gates
+
+`scripts/semanarios_paths.py` centraliza `MD_ROOT` e `DOCX_ROOT`. Instalar `scripts/requirements-semanarios.txt` em ambiente Python isolado. Executar da raiz do repositório:
+
+```powershell
+python scripts/semanarios.py validate --out-report .tmp/md-validado.json
+python scripts/semanarios.py export --segmento infantil
+python scripts/semanarios.py matrix
+```
+
+O exportador valida **todos os Markdown antes de escrever qualquer DOCX**. Texto, tabelas e listas vêm do MD; o Word anterior não fornece conteúdo. Os derivados usam A4, margens de 2,54 cm, títulos, cabeçalhos de tabela repetidos e paginação. A exportação não aprova o visual: renderizar e inspecionar todas as páginas antes da entrega. A [matriz](matriz-validacao-md-docx.md) compara texto visível e integridade dos pares; o QA desta execução está no [relatório](relatorio-infantil-e-migracao-2026-10-06.md).
+
+## Fundamental I e preparo
+
+O planejamento pedagógico de Rafael Martins e Ricardo Palhares até 15/12 não foi refeito. A mesma aula oficial continua compartilhada por série e semana, conforme ADR-011. Na migração de 06/10, os 21 pares futuros foram somente movidos. Posteriormente, por solicitação do usuário após a auditoria quinzenal, dez pares receberam ajustes pontuais: equalização do 4.ºC, etapas semanais do 4.ºA, especificação da retomada do 3.ºD e rótulos de continuidade do 5.ºA/5.ºB. Ver [validação e QA dos ajustes](validacao-alinhamento-quinzenal-fundamental-1-2026-10-06.md). Um DOCX histórico de 21–25/09 foi sincronizado com seu MD preexistente, que não sofreu alteração pedagógica.
+
+Previsão de preparo do Fundamental I: cinco horas por semana completa, com uma hora adicional recomendada para testes, impressões e ajustes. Ver [simulação de preparo](../simulacoes/preparo-de-aulas-set-dez-2026.md).
+
 ## Resumo do Encontro
 
-Cada plano de aula deve conter o bloco **Resumo do Encontro**, com uma mensagem de rotina pronta para as famílias, explicando a atividade, a participação da turma e as aprendizagens mobilizadas. Revise apenas se houver mudança no que foi realizado.
+Cada roteiro conserva a mensagem de rotina para as famílias. O texto é uma previsão: conferir o que ocorreu e as adaptações antes de compartilhar. Não tratar mensagens no passado como prova de execução futura.

@@ -1,16 +1,16 @@
 # Semanários da professora anterior
 
-Os registros da Educação Infantil estão em [infantil/](infantil/), com os documentos originais e as respectivas versões em Markdown.
+O índice de proveniência do Infantil permanece em [infantil](infantil/). Os MD dos dois segmentos estão em [docs/semanarios/md/](../../docs/semanarios/md/) e os derivados em [docs/semanarios/docx/](../../docs/semanarios/docx/). Os originais recebidos permanecem em `data/semanarios_prof_anterior/`, sem alteração de bytes.
 
-Versões em Markdown dos documentos originais armazenados em `/data/semanarios_prof_anterior`. Os arquivos de origem foram preservados sem alteração.
+As versões de leitura foram movidas para uma raiz única. Ver [manifesto de 06/10](../../docs/semanarios/migracao-2026-10-06.md); nenhum conteúdo convertido foi perdido.
 
 ## Ordem cronológica
 
 | Período | Arquivo | Observação |
 | --- | --- | --- |
-| 22 a 26 de junho | [semanario-2026-06-22-a-26.md](semanario-2026-06-22-a-26.md) | Registro mais antigo recebido. |
-| 10 a 14 de agosto | [semanario-2026-08-10-a-14.md](semanario-2026-08-10-a-14.md) | Registro intermediário recebido. |
-| 24 a 28 de agosto | [semanario-2026-08-24-a-28.md](semanario-2026-08-24-a-28.md) | Último planejamento disponível; usar como ponto de partida para a continuidade. |
+| 22 a 26 de junho | [semanario-2026-06-22-a-26.md](../../docs/semanarios/md/fundamental-1/2026-06/semanario-2026-06-22-a-26.md) | Registro mais antigo recebido. |
+| 10 a 14 de agosto | [semanario-2026-08-10-a-14.md](../../docs/semanarios/md/fundamental-1/2026-08/semanario-2026-08-10-a-14.md) | Registro intermediário recebido. |
+| 24 a 28 de agosto | [semanario-2026-08-24-a-28.md](../../docs/semanarios/md/fundamental-1/2026-08/semanario-2026-08-24-a-28.md) | Último planejamento disponível; usar como ponto de partida para a continuidade. |
 
 ## Escopo do último semanário
 

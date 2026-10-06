@@ -23,3 +23,11 @@ A partir de 02/09/2026, as decisões duráveis do projeto são registradas em [d
 Em 14/09/2026, a extensão provisória do planejamento à Educação Infantil foi registrada no [ADR-014](adr/014-planejamento-infantil-set-dez-2026.md).
 
 A grade semanal do Infantil fornecida pelo usuário foi registrada no [ADR-015](adr/015-grade-semanal-educacao-infantil-2026.md).
+
+## Instrução operacional do usuário — 06/10/2026
+
+Separar todo o acervo de semanários em `docs/semanarios/md/<segmento>/<mês>/` e `docs/semanarios/docx/<segmento>/<mês>/`, com MD como fonte de verdade e DOCX derivado. Fontes recebidas ficam preservadas em `data/`. O horizonte do Infantil nesta execução termina em 15/12, com dias úteis e somente os feriados oficiais informados. A instrução substitui os caminhos e o limite operacional anteriores sem editar ADRs ou refazer o planejamento do Fundamental I. Ver [manifesto](semanarios/migracao-2026-10-06.md).
+
+## Ajuste autorizado do alinhamento quinzenal — 06/10/2026
+
+Aplicar pontualmente os ADRs 004/011/012 ao planejamento futuro: preservar a Máquina GBC realizada pelo 4.ºC em 24/09, aprofundá-la em 08/10 pelo material existente e reconvergir em Q2; usar encontros semanais do 4.ºA para etapas da experiência essencial; especificar Colheitadeira no 3.ºD em 01/12; corrigir apenas os rótulos da maquete do 5.ºA/5.ºB. Decisão solicitada expressamente pelo usuário após auditoria; não altera ADRs, 1.º/2.º anos ou a sequência do 5.º. Ver [validação dos ajustes](semanarios/validacao-alinhamento-quinzenal-fundamental-1-2026-10-06.md).

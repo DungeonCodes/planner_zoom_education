@@ -1,14 +1,19 @@
-# Plano da Educação Infantil — 21/09 a 18/12/2026
+# Plano da Educação Infantil — 21/09 a 15/12/2026
+
+## Atualização operacional de 06/10
+
+O [Plano Mestre datado](plano_mestre_infantil_2026-10-06-a-12-15.md) detalha todos os encontros restantes. O usuário confirmou integralmente as aulas de 21/09 a 02/10, incluindo a 3C; ver [estado inicial](estado_inicial_infantil_2026-10-06.md) e [run_log](../run_log.md). O horizonte solicitado termina em 15/12, com dias úteis e exclusão somente dos feriados oficiais informados. Esta atualização registra a instrução do usuário sem alterar os ADRs 013–015.
+
 
 ## Base e limites
 
 Este plano usa os três semanários de Thayane de 11–27/08/2026 e os manuais Zoom Educação Infantil, volumes 1 (3 anos), 2 (4 anos) e 3 (5 anos). Os rótulos escolares Infantil 2, 3 e 4 foram associados respectivamente a esses volumes pela continuidade dos títulos presentes nos semanários. Conferir essa associação com a escola antes de imprimir.
 
-Os semanários antigos documentam **aulas planejadas**, não comprovam isoladamente que cada atividade foi realizada. O último registro é “O caminho do saci” (Inf. 2A–Inf. 2C), “A cesta da Cuca” (Inf. 3A–Inf. 3B) e “A missão do Curupira” (Inf. 4A–Inf. 4C), em 25–27/08. O usuário confirmou em 14/09 que **não houve aulas do Infantil após essas datas**, devido ao afastamento da professora. Assim, não há avanço posterior a incorporar. As atividades de folclore não pertencem à sequência dos manuais; o primeiro encontro novo retoma o último ponto identificável do livro: “João e o pé de feijão” (Infantil 2), “Taco e gol” (Inf. 3A/Inf. 3B) e “Mulher Mais Poderosa do Mundo” (Infantil 4). A nova grade inclui também **Inf. 3C**, ausente dos registros históricos: fazer diagnóstico breve do ponto de partida dessa turma no encontro compartilhado com Inf. 3B, sem presumir atraso. Na retomada, acolher as turmas e recuperar brevemente a memória da última experiência antes do desafio novo.
+Os semanários antigos documentam **aulas planejadas**, não comprovam isoladamente que cada atividade foi realizada. O último registro é “O caminho do saci” (Inf. 2A–Inf. 2C), “A cesta da Cuca” (Inf. 3A–Inf. 3B) e “A missão do Curupira” (Inf. 4A–Inf. 4C), em 25–27/08. O usuário confirmou em 14/09 que **não houve aulas do Infantil após essas datas**, devido ao afastamento da professora. Essa confirmação delimitou o marco documental de 14/09. Em 06/10, as aulas previstas de 21/09 a 02/10 foram confirmadas integralmente pelo usuário, conforme a atualização acima. As atividades de folclore não pertencem à sequência dos manuais; o primeiro encontro novo retoma o último ponto identificável do livro: “João e o pé de feijão” (Infantil 2), “Taco e gol” (Inf. 3A/Inf. 3B) e “Mulher Mais Poderosa do Mundo” (Infantil 4). A nova grade inclui também **Inf. 3C**, ausente dos registros históricos: fazer diagnóstico breve do ponto de partida dessa turma no encontro compartilhado com Inf. 3B, sem presumir atraso. Na retomada, acolher as turmas e recuperar brevemente a memória da última experiência antes do desafio novo.
 
 ## Turmas e capacidade
 
-A [grade da Educação Infantil](grade_infantil_2026.md) confirma **nove turmas em oito horários semanais de 50 minutos**: Inf. 4B na terça; Inf. 3A, Inf. 4A, Inf. 3B/Inf. 3C, Inf. 4C, Inf. 2B e Inf. 2C na quarta; Inf. 2A na quinta. São 13 encontros previstos por horário de 21/09 a 18/12, sujeitos ao calendário local. Confirmar número de alunos e eventuais suspensões de aula. Os feriados nacionais de 12/10 e 02/11 caem em segundas-feiras e não reduzem essa grade. Não há aula de Infantil indicada em 18/12 (sexta-feira).
+A [grade da Educação Infantil](grade_infantil_2026.md) confirma **nove turmas em oito horários semanais de 50 minutos**: Inf. 4B na terça; Inf. 3A, Inf. 4A, Inf. 3B/Inf. 3C, Inf. 4C, Inf. 2B e Inf. 2C na quarta; Inf. 2A na quinta. De 21/09 a 15/12, são 13 encontros para 4B e 12 para as demais turmas. Desde 06/10 restam 81 horários reais e 91 participações de turma. Confirmar os quantitativos antes das aulas. Os feriados de 12/10 e 02/11 (segunda), 15/11 (domingo) e 20/11 (sexta) não coincidem com a grade. Não presumir suspensões, recessos ou eventos.
 
 ## Sequência de encontros
 
@@ -27,10 +32,10 @@ O Infantil não usa ciclos A/B: cada faixa segue uma lição por semana letiva, 
 | 16–20/11 | Matata: a “coisa esquisita” apronta — Investigar, p. 44 | Animais: Qual é o caminho mais curto até o rio? — Investigar, p. 26 | Robô no trânsito: No meio do caminho tem um robô — Investigar, p. 60 |
 | 23–27/11 | Matata: Estamos com medo do robô! — Investigar, p. 48 | Animais: resolução com famílias — Investigar, p. 32; atividade escolar adaptada até haver evento autorizado | Robô no trânsito: Seu mestre mandou — Investigar, p. 64 |
 | 30/11–04/12 | Matata ganha uma nova profissão — Investigar, p. 52 | Robô na selva: Quem derruba as árvores? — Investigar, p. 38 | Robô no trânsito: o trânsito deu um nó — Investigar, p. 68 |
-| 07–11/12 | Projeto Bolhas de Sabão: ideias e primeiros testes — Investigar, pp. 68–72 | Robô na selva: caminhos e comandos — Investigar, pp. 44–48 | Matata ganha nova profissão — Investigar, p. 72 |
-| 14–18/12 | Projeto Bolhas: exploração e síntese — Investigar, pp. 74–88, com seleção conforme tempo; produto final depende de outro grupo disponível | Robô na selva: medo, solução e nova profissão — Investigar, pp. 52–56, com seleção conforme tempo | Projeto Animais da Amazônia: abertura — Investigar, pp. 90–94; continuidade em 2027 |
+| 07–11/12 | Bolhas de Sabão: ideias, sopro e documentação — Investigar, pp. 68–70; recorte exploratório, sem concluir todo o projeto | Robô na selva: caminhos e comandos — Investigar, pp. 44–48; um desafio de percurso com extensão breve e partilha | Matata ganha nova profissão — Investigar, p. 72; confecção de semáforo e brincadeira de trânsito |
+| 14–15/12 | Sem encontro no horizonte | Sem encontro no horizonte | Somente Inf. 4B em 15/12: Cidadezinha — revisitação e fechamento lúdico; Investigar, p. 46 e pp. 72–76. Não iniciar Animais da Amazônia neste recorte |
 
-Datas de aula por turma segundo a grade recebida (sujeitas ao calendário escolar local):
+Datas de aula por turma segundo a grade e o calendário operacional adotado:
 
 | Semana | Inf. 4B (terça) | Inf. 3A, Inf. 4A, Inf. 3B/Inf. 3C, Inf. 4C, Inf. 2B, Inf. 2C (quarta) | Inf. 2A (quinta) |
 | --- | --- | --- | --- |
@@ -46,7 +51,7 @@ Datas de aula por turma segundo a grade recebida (sujeitas ao calendário escola
 | 10 | 24/11 | 25/11 | 26/11 |
 | 11 | 01/12 | 02/12 | 03/12 |
 | 12 | 08/12 | 09/12 | 10/12 |
-| 13 | 15/12 | 16/12 | 17/12 |
+| 13 | 15/12 | — fora do horizonte | — fora do horizonte |
 
 Não antecipar que os projetos foram integralmente concluídos: o cronograma indica o percurso **possível** com um encontro semanal.
 
@@ -60,4 +65,4 @@ Não antecipar que os projetos foram integralmente concluídos: o cronograma ind
 
 ## Pendências operacionais
 
-Confirmar quantitativos de alunos, calendário da escola, ponto de partida da Inf. 3C e se o Infantil usa mesmo os volumes 1, 2 e 3 por faixa. As duas atividades que o manual prevê com famílias e a culminância de Bolhas dependem de acordo com a escola; as versões em sala são a alternativa planejada.
+Confirmar quantitativos de alunos e recursos e a associação dos volumes 1, 2 e 3 às faixas. A participação da 3C em setembro foi confirmada em 06/10; o detalhamento das observações do diagnóstico não foi fornecido. O calendário operacional está definido pelo usuário. As atividades com famílias foram adaptadas para colegas em sala, sem evento externo. Bolhas permanece um recorte exploratório; as pp. 72–88 do volume 1 e pp. 52–56 do volume 2 não são consideradas concluídas nem transferidas automaticamente para 2027.

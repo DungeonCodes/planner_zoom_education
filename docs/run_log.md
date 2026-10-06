@@ -1,5 +1,29 @@
 # Run Log
 
+## Registro — 2026-10-06 (ajustes do alinhamento quinzenal do Fundamental I)
+
+Ação: 4.ºC em 08/10 mantém a retomada curta de Medida e aprofunda a Máquina GBC por testes de sincronização e A Charada das Engrenagens, sustentados pelo manual (professor pp. 116 e 126–128; aluno pp. 93 e 99–102). Preservada a execução de 24/09. Reconvergência em Q2, 22/10, com Ponte/Grua; Q3 Portos/Dia e noite, Q4 Tempo e Q5 Comunicação. Três etapas semanais do 4.ºA ajustadas para consolidar a experiência compartilhada em Q3/Q4.
+
+3.ºD em 01/12: Colheitadeira, Testes 3 e 4 de sensor de distância/parada segura, professor pp. 256–264 e aluno pp. 6–8; origem da culminância de 15/12 explicitada. 5.ºA/5.ºB: somente rótulo da construção da maquete corrigido de Continuação para Início, pois os roteiros anteriores não documentam preparação. Sequência preservada.
+
+Validação e derivação: 100 encontros cruzados, datas/horários e durações preservados; dez semanários MD com 12 roteiros afetados, 88 roteiros integralmente preservados. Plano Mestre atualizado pontualmente; 1.º/2.º ano, históricos e Infantil preservados. Todos os 48 MD validados antes dos dez DOCX correspondentes; todos os pares SINCRONIZADOS. Dez DOCX renderizados/inspecionados em todas as 59 páginas, sem falhas visuais pendentes; outros 38 DOCX com bytes preservados. Matrizes atualizadas nos caminhos atuais.
+
+Pendência operacional: recursos/carga e preservação das montagens a confirmar antes das aulas. Nenhuma pendência documental. ADRs e PDFs não alterados; nenhum commit ou push. Ver [validação e matriz quinzenal](semanarios/validacao-alinhamento-quinzenal-fundamental-1-2026-10-06.md).
+
+## Registro — 2026-10-06 (Infantil até 15/12 e migração do acervo)
+
+Ação: concluído o Plano Mestre do Infantil de 06/10 a 15/12, com nove turmas, 91 participações de turma em 81 horários reais de 50 minutos, sem ciclos A/B. Nenhum feriado informado coincide com a grade. Aulas até 02/10 confirmadas integralmente pelo usuário; futuros permanecem planejados. Aproveitados/revisados quatro MD de outubro e criados sete de novembro/dezembro, totalizando 11 MD/DOCX no horizonte restante. Não foi iniciada nova unidade para ocupar o último encontro.
+
+Migração: 32 MD e 29 DOCX do Fundamental I, nove MD e seis DOCX anteriores do Infantil para `docs/semanarios/md/<segmento>/<mês>/` e `docs/semanarios/docx/<segmento>/<mês>/`. Incluídos os seis históricos convertidos de junho/agosto; três Word recebidos do Infantil preservados em data com hashes idênticos. Administrativos na raiz. Os 21 pares futuros e todos os 32 MD do Fundamental I conservaram seus bytes. Um Word histórico de Rafael de 21–25/09 foi sincronizado pelo MD preexistente, sem alteração pedagógica.
+
+Derivação e QA: todos os MD validados antes da exportação. Acervo final: 48 pares SINCRONIZADOS (32 Fundamental I, 16 Infantil). Vinte DOCX criados/regenerados exclusivamente dos MD, renderizados e inspecionados em todas as 72 páginas (62 Infantil, dez Fundamental I); sete problemas de apresentação/estrutura corrigidos, zero falhas visuais pendentes. Fontes e PDFs preservados. Scripts, links, índices e matrizes atualizados; caminhos históricos em ADRs/run_log mantidos e mapeados no manifesto.
+
+Pendências: associação provisória aos volumes, quantitativos/recursos/carga e conferência visual antes de imprimir fichas; observações detalhadas do diagnóstico da 3C não fornecidas. Nenhuma pendência documental. ADRs não alterados; nenhum commit ou push. Ver [relatório](semanarios/relatorio-infantil-e-migracao-2026-10-06.md), [manifesto](semanarios/migracao-2026-10-06.md) e [matriz](semanarios/matriz-validacao-md-docx.md).
+
+## Registro — 2026-10-06 (confirmação de execução do Infantil)
+
+Informação recebida: o usuário confirmou como realizadas integralmente todas as aulas do Infantil previstas entre 21/09 e 02/10/2026, incluindo a participação da 3C. Marcos: Construindo uma história (Infantil 2), O boneco mais alto (Infantil 3) e O piloto sumiu! (Infantil 4). A confirmação vale para o Infantil e não modifica o planejamento do Fundamental I. O detalhamento das observações do diagnóstico da 3C não foi fornecido.
+
 ## Registro — 2026-10-05 (semanários de 05/10 a 15/12 concluídos)
 
 Ação realizada: concluído o planejamento dos encontros de Tecnologia do Fundamental 1 entre 05/10 e 15/12/2026, conforme ADR-005, considerando todos os dias úteis como letivos e excluindo somente os feriados oficiais informados por Rafael. Foram criados o Plano Mestre e 21 semanários em Markdown — 11 de Rafael Martins e 10 de Ricardo Palhares — cobrindo 100 encontros das 18 turmas.

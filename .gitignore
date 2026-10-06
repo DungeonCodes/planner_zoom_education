@@ -1,5 +1,6 @@
 # Acervo de PDFs originais da Zoom Education (arquivos grandes)
 /data/zoom_education/pdfs_originais/
+/data/semanarios_prof_anterior/infantil/
 
 # Arquivos gerados
 /outputs/*
